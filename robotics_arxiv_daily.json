@@ -1,0 +1,4780 @@
+{
+  "papers": [
+    {
+      "date": "2025-07-23",
+      "title": "ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents",
+      "authors": "Hesheng Wang Team",
+      "pdf": "2507.17462",
+      "pdfLink": "http://arxiv.org/abs/2507.17462",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-23",
+      "title": "Ctx2TrajGen: Traffic Context-Aware Microscale Vehicle Trajectories using Generative Adversarial Imitation Learning",
+      "authors": "Byeongjoon Noh Team",
+      "pdf": "2507.17418",
+      "pdfLink": "http://arxiv.org/abs/2507.17418",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-23",
+      "title": "Confounded Causal Imitation Learning with Instrumental Variables",
+      "authors": "Zhi Geng Team",
+      "pdf": "2507.17309",
+      "pdfLink": "http://arxiv.org/abs/2507.17309",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-23",
+      "title": "Prolonging Tool Life: Learning Skillful Use of General-purpose Tools through Lifespan-guided Reinforcement Learning",
+      "authors": "Takamitsu Matsubara Team",
+      "pdf": "2507.17275",
+      "pdfLink": "http://arxiv.org/abs/2507.17275",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-23",
+      "title": "Towards Human-level Intelligence via Human-like Whole-Body Manipulation",
+      "authors": "Zhaohui An Team",
+      "pdf": "2507.17141",
+      "pdfLink": "http://arxiv.org/abs/2507.17141",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-22",
+      "title": "Evaluating Uncertainty and Quality of Visual Language Action-enabled Robots",
+      "authors": "Aitor Arrieta Team",
+      "pdf": "2507.17049",
+      "pdfLink": "http://arxiv.org/abs/2507.17049",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-19",
+      "title": "Sensor-Space Based Robust Kinematic Control of Redundant Soft Manipulator by Learning",
+      "authors": "Charlie C. L. Wang Team",
+      "pdf": "2507.16842",
+      "pdfLink": "http://arxiv.org/abs/2507.16842",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-22",
+      "title": "ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning",
+      "authors": "Fu-En Yang Team",
+      "pdf": "2507.16815",
+      "pdfLink": "http://arxiv.org/abs/2507.16815",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-22",
+      "title": "Equivariant Goal Conditioned Contrastive Reinforcement Learning",
+      "authors": "Robert Platt Team",
+      "pdf": "2507.16139",
+      "pdfLink": "http://arxiv.org/abs/2507.16139",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-21",
+      "title": "Look, Focus, Act: Efficient and Robust Robot Learning via Human Gaze and Foveated Vision Transformers",
+      "authors": "Iman Soltani Team",
+      "pdf": "2507.15833",
+      "pdfLink": "http://arxiv.org/abs/2507.15833",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-21",
+      "title": "Strong, Accurate, and Low-Cost Robot Manipulator",
+      "authors": "Donghyun Kim Team",
+      "pdf": "2507.15693",
+      "pdfLink": "http://arxiv.org/abs/2507.15693",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-21",
+      "title": "Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos",
+      "authors": "Zongqing Lu Team",
+      "pdf": "2507.15597",
+      "pdfLink": "http://arxiv.org/abs/2507.15597",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-22",
+      "title": "GR-3 Technical Report",
+      "authors": "Yichu Yang Team",
+      "pdf": "2507.15493",
+      "pdfLink": "http://arxiv.org/abs/2507.15493",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-20",
+      "title": "Learning-Based Modeling of a Magnetically Steerable Soft Suction Device for Endoscopic Endonasal Interventions",
+      "authors": "Eric Diller Team",
+      "pdf": "2507.15155",
+      "pdfLink": "http://arxiv.org/abs/2507.15155",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-20",
+      "title": "Reinforcement Learning for Flow-Matching Policies",
+      "authors": "Somayeh Sojoudi Team",
+      "pdf": "2507.15073",
+      "pdfLink": "http://arxiv.org/abs/2507.15073",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-20",
+      "title": "Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper",
+      "authors": "Yunzhu Li Team",
+      "pdf": "2507.15062",
+      "pdfLink": "http://arxiv.org/abs/2507.15062",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-20",
+      "title": "LLM-Enhanced Multi-Agent Reinforcement Learning with Expert Workflow for Real-Time P2P Energy Trading",
+      "authors": "Lu Zhang Team",
+      "pdf": "2507.14995",
+      "pdfLink": "http://arxiv.org/abs/2507.14995",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-20",
+      "title": "Heterogeneous object manipulation on nonlinear soft surface through linear controller",
+      "authors": "Andres Faiña Team",
+      "pdf": "2507.14967",
+      "pdfLink": "http://arxiv.org/abs/2507.14967",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-20",
+      "title": "KGN-Pro: Keypoint-Based Grasp Prediction through Probabilistic 2D-3D Correspondence Learning",
+      "authors": "Guangyao Zhai Team",
+      "pdf": "2507.14820",
+      "pdfLink": "http://arxiv.org/abs/2507.14820",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-19",
+      "title": "BT-TL-DMPs: A Novel Robot TAMP Framework Combining Behavior Tree, Temporal Logic and Dynamical Movement Primitives",
+      "authors": "Yongchun Fang Team",
+      "pdf": "2507.14582",
+      "pdfLink": "http://arxiv.org/abs/2507.14582",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-18",
+      "title": "Improving Low-Cost Teleoperation: Augmenting GELLO with Force",
+      "authors": "Kai Arulkumaran Team",
+      "pdf": "2507.13602",
+      "pdfLink": "http://arxiv.org/abs/2507.13602",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-17",
+      "title": "The Imitation Game: Turing Machine Imitator is Length Generalizable Reasoner",
+      "authors": "Kai Chen Team",
+      "pdf": "2507.13332",
+      "pdfLink": "http://arxiv.org/abs/2507.13332",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-17",
+      "title": "ZipMPC: Compressed Context-Dependent MPC Cost via Imitation Learning",
+      "authors": "Johannes A. Stork Team",
+      "pdf": "2507.13088",
+      "pdfLink": "http://arxiv.org/abs/2507.13088",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-17",
+      "title": "Generalist Bimanual Manipulation via Foundation Video Diffusion Models",
+      "authors": "Jun Zhu Team",
+      "pdf": "2507.12898",
+      "pdfLink": "http://arxiv.org/abs/2507.12898",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-17",
+      "title": "Supervised Fine Tuning on Curated Data is Reinforcement Learning (and can be improved)",
+      "authors": "Jost Tobias Springenberg Team",
+      "pdf": "2507.12856",
+      "pdfLink": "http://arxiv.org/abs/2507.12856",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-17",
+      "title": "DEMONSTRATE: Zero-shot Language to Robotic Control via Multi-task Demonstration Learning",
+      "authors": "Melanie N. Zeilinger Team",
+      "pdf": "2507.12855",
+      "pdfLink": "http://arxiv.org/abs/2507.12855",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-17",
+      "title": "Learning to Predict Mobile Robot Stability in Off-Road Environments",
+      "authors": "Parikshit Maini Team",
+      "pdf": "2507.12731",
+      "pdfLink": "http://arxiv.org/abs/2507.12731",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-18",
+      "title": "EgoVLA: Learning Vision-Language-Action Models from Egocentric Human Videos",
+      "authors": "Xiaolong Wang Team",
+      "pdf": "2507.12440",
+      "pdfLink": "http://arxiv.org/abs/2507.12440",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-16",
+      "title": "The Developments and Challenges towards Dexterous and Embodied Robotic Manipulation: A Survey",
+      "authors": "Jiming Chen Team",
+      "pdf": "2507.11840",
+      "pdfLink": "http://arxiv.org/abs/2507.11840",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "Let’s Think in Two Steps: Mitigating Agreement Bias in MLLMs with Self-Grounded Verification",
+      "authors": "Zsolt Kira Team",
+      "pdf": "2507.11662",
+      "pdfLink": "http://arxiv.org/abs/2507.11662",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "MPC-based Coarse-to-Fine Motion Planning for Robotic Object Transportation in Cluttered Environments",
+      "authors": "Steven Liu Team",
+      "pdf": "2507.11211",
+      "pdfLink": "http://arxiv.org/abs/2507.11211",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "A Robust Controller based on Gaussian Processes for Robotic Manipulators with Unknown Uncertainty",
+      "authors": "Ruggero Carli Team",
+      "pdf": "2507.11170",
+      "pdfLink": "http://arxiv.org/abs/2507.11170",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "Enhancing Autonomous Manipulator Control with Human-in-loop for Uncertain Assembly Environments",
+      "authors": "Kazuya Yoshida Team",
+      "pdf": "2507.11006",
+      "pdfLink": "http://arxiv.org/abs/2507.11006",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "Object-Centric Mobile Manipulation through SAM2-Guided Perception and Imitation Learning",
+      "authors": "Jun Morimoto Team",
+      "pdf": "2507.10899",
+      "pdfLink": "http://arxiv.org/abs/2507.10899",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-14",
+      "title": "Versatile and Generalizable Manipulation via Goal-Conditioned Reinforcement Learning with Grounded Object Detection",
+      "authors": "Colin Bellinger Team",
+      "pdf": "2507.10814",
+      "pdfLink": "http://arxiv.org/abs/2507.10814",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-14",
+      "title": "rt-RISeg: Real-Time Model-Free Robot Interactive Segmentation for Active Instance-Level Object Understanding",
+      "authors": "Kaiyu Hang Team",
+      "pdf": "2507.10776",
+      "pdfLink": "http://arxiv.org/abs/2507.10776",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-14",
+      "title": "A New Dataset and Performance Benchmark for Real-time Spacecraft Segmentation in Onboard Flight Computers",
+      "authors": "Arko Barman Team",
+      "pdf": "2507.10775",
+      "pdfLink": "http://arxiv.org/abs/2507.10775",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-14",
+      "title": "Vision Language Action Models in Robotic Manipulation: A Systematic Review",
+      "authors": "Irfan Hussain Team",
+      "pdf": "2507.10672",
+      "pdfLink": "http://arxiv.org/abs/2507.10672",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-16",
+      "title": "GHPO: Adaptive Guidance for Stable and Efficient LLM Reinforcement Learning",
+      "authors": "Dandan Tu Team",
+      "pdf": "2507.10628",
+      "pdfLink": "http://arxiv.org/abs/2507.10628",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-14",
+      "title": "MP1: Mean Flow Tames Policy Learning in 1-step for Robotic Manipulation",
+      "authors": "Mengyuan Liu Team",
+      "pdf": "2507.10543",
+      "pdfLink": "http://arxiv.org/abs/2507.10543",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-14",
+      "title": "Prompt Informed Reinforcement Learning for Visual Coverage Path Planning",
+      "authors": "Venkat Margapuri Team",
+      "pdf": "2507.10284",
+      "pdfLink": "http://arxiv.org/abs/2507.10284",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-14",
+      "title": "Should We Ever Prefer Decision Transformer for Offline Reinforcement Learning?",
+      "authors": "Keith Ross Team",
+      "pdf": "2507.10174",
+      "pdfLink": "http://arxiv.org/abs/2507.10174",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-16",
+      "title": "MTF-Grasp: A Multi-tier Federated Learning Approach for Robotic Grasping",
+      "authors": "Monowar Bhuyan Team",
+      "pdf": "2507.10158",
+      "pdfLink": "http://arxiv.org/abs/2507.10158",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-13",
+      "title": "Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling",
+      "authors": "Ali Al-Zawqari Team",
+      "pdf": "2507.09540",
+      "pdfLink": "http://arxiv.org/abs/2507.09540",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-13",
+      "title": "Self-supervised Pretraining for Integrated Prediction and Planning of Automated Vehicles",
+      "authors": "Keqiang Li Team",
+      "pdf": "2507.09537",
+      "pdfLink": "http://arxiv.org/abs/2507.09537",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-13",
+      "title": "SegVec3D: A Method for Vector Embedding of 3D Objects Oriented Towards Robot manipulation",
+      "authors": "Boyu Wang Team",
+      "pdf": "2507.09459",
+      "pdfLink": "http://arxiv.org/abs/2507.09459",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-12",
+      "title": "DAA*: Deep Angular A Star for Image-based Path Planning",
+      "authors": "Zhiwei Xu Team",
+      "pdf": "2507.09305",
+      "pdfLink": "http://arxiv.org/abs/2507.09305",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "Learning and Transferring Better with Depth Information in Visual Reinforcement Learning",
+      "authors": "Jingdong Zhao Team",
+      "pdf": "2507.09180",
+      "pdfLink": "http://arxiv.org/abs/2507.09180",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-12",
+      "title": "PRAG: Procedural Action Generator",
+      "authors": "Karla Stepanova Team",
+      "pdf": "2507.09167",
+      "pdfLink": "http://arxiv.org/abs/2507.09167",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-12",
+      "title": "Towards Human-level Dexterity via Robot Learning",
+      "authors": "Gagan Khandate Team",
+      "pdf": "2507.09117",
+      "pdfLink": "http://arxiv.org/abs/2507.09117",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-11",
+      "title": "Imitation Learning in Continuous Action Spaces: Mitigating Compounding Error without Interaction",
+      "authors": "Max Simchowitz Team",
+      "pdf": "2507.09061",
+      "pdfLink": "http://arxiv.org/abs/2507.09061",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-11",
+      "title": "Behavioral Exploration: Learning to Explore via In-Context Adaptation",
+      "authors": "Sergey Levine Team",
+      "pdf": "2507.09041",
+      "pdfLink": "http://arxiv.org/abs/2507.09041",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-11",
+      "title": "Learning human-to-robot handovers through 3D scene reconstruction",
+      "authors": "Changjae Oh Team",
+      "pdf": "2507.08726",
+      "pdfLink": "http://arxiv.org/abs/2507.08726",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-11",
+      "title": "Learning Robust Motion Skills via Critical Adversarial Attacks for Humanoid Robots",
+      "authors": "Yue Gao Team",
+      "pdf": "2507.08303",
+      "pdfLink": "http://arxiv.org/abs/2507.08303",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-11",
+      "title": "CL3R: 3D Reconstruction and Contrastive Learning for Enhanced Robotic Manipulation Representations",
+      "authors": "He Wang Team",
+      "pdf": "2507.08262",
+      "pdfLink": "http://arxiv.org/abs/2507.08262",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-10",
+      "title": "Imitation Learning for Obstacle Avoidance Using End-to-End CNN-Based Sensor Fusion",
+      "authors": "Raafat E. Shalaby Team",
+      "pdf": "2507.08112",
+      "pdfLink": "http://arxiv.org/abs/2507.08112",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "EXPO: Stable Reinforcement Learning with Expressive Policies",
+      "authors": "Chelsea Finn Team",
+      "pdf": "2507.07986",
+      "pdfLink": "http://arxiv.org/abs/2507.07986",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-15",
+      "title": "Reinforcement Learning with Action Chunking",
+      "authors": "Sergey Levine Team",
+      "pdf": "2507.07969",
+      "pdfLink": "http://arxiv.org/abs/2507.07969",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Self-Wearing Adaptive Garments via Soft Robotic Unfurling",
+      "authors": "Allison M. Okamura Team",
+      "pdf": "2507.07221",
+      "pdfLink": "http://arxiv.org/abs/2507.07221",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Hierarchical Reinforcement Learning for Articulated Tool Manipulation with Multifingered Hand",
+      "authors": "Xinjun Sheng Team",
+      "pdf": "2507.06822",
+      "pdfLink": "http://arxiv.org/abs/2507.06822",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Learning safe, constrained policies via imitation learning: Connection to Probabilistic Inference and a Naive Algorithm",
+      "authors": "George A. Vouros Team",
+      "pdf": "2507.06780",
+      "pdfLink": "http://arxiv.org/abs/2507.06780",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-13",
+      "title": "Spatial-Temporal Aware Visuomotor Diffusion Policy Learning",
+      "authors": "Yanwei Fu Team",
+      "pdf": "2507.06710",
+      "pdfLink": "http://arxiv.org/abs/2507.06710",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Value from Observations: Towards Large-Scale Imitation Learning via Self-Improvement",
+      "authors": "Martin Riedmiller Team",
+      "pdf": "2507.06701",
+      "pdfLink": "http://arxiv.org/abs/2507.06701",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Goal-Oriented Skill Abstraction for Offline Multi-Task Reinforcement Learning",
+      "authors": "Jian Cheng Team",
+      "pdf": "2507.06628",
+      "pdfLink": "http://arxiv.org/abs/2507.06628",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Q-STAC: Q-Guided Stein Variational Model Predictive Actor-Critic",
+      "authors": "Fabio Ramos Team",
+      "pdf": "2507.06625",
+      "pdfLink": "http://arxiv.org/abs/2507.06625",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-09",
+      "title": "Token Bottleneck: One Token to Remember Dynamics",
+      "authors": "Sangdoo Yun Team",
+      "pdf": "2507.06543",
+      "pdfLink": "http://arxiv.org/abs/2507.06543",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "Learning to Evaluate Autonomous Behaviour in Human-Robot Interaction",
+      "authors": "Alessio Del Bue Team",
+      "pdf": "2507.06404",
+      "pdfLink": "http://arxiv.org/abs/2507.06404",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "EC-Flow: Enabling Versatile Robotic Manipulation from Action-Unlabeled Videos via Embodiment-Centric Flow",
+      "authors": "Liang Wang Team",
+      "pdf": "2507.06224",
+      "pdfLink": "http://arxiv.org/abs/2507.06224",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "Is Diversity All You Need for Scalable Robotic Manipulation?",
+      "authors": "Hongyang Li Team",
+      "pdf": "2507.06219",
+      "pdfLink": "http://arxiv.org/abs/2507.06219",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "Fast Bilateral Teleoperation and Imitation Learning Using Sensorless Force Control via Accurate Dynamics Model",
+      "authors": "Toshiaki Tsuji Team",
+      "pdf": "2507.06174",
+      "pdfLink": "http://arxiv.org/abs/2507.06174",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "Learning Agile Tensile Perching for Aerial Robots from Demonstrations",
+      "authors": "Basaran Bahadir Kocer Team",
+      "pdf": "2507.06172",
+      "pdfLink": "http://arxiv.org/abs/2507.06172",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "SCCRUB: Surface Cleaning Compliant Robot Utilizing Bristles",
+      "authors": "Jeffrey Ian Lipton Team",
+      "pdf": "2507.06053",
+      "pdfLink": "http://arxiv.org/abs/2507.06053",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "LeAD: The LLM Enhanced Planning System Converged with End-to-end Autonomous Driving",
+      "authors": "Jian Sun Team",
+      "pdf": "2507.05754",
+      "pdfLink": "http://arxiv.org/abs/2507.05754",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "Hybrid Diffusion Policies with Projective Geometric Algebra for Efficient Robot Manipulation Learning",
+      "authors": "Daniel Rakita Team",
+      "pdf": "2507.05695",
+      "pdfLink": "http://arxiv.org/abs/2507.05695",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "Integrating Diffusion-based Multi-task Learning with Online Reinforcement Learning for Robust Quadruped Robot Control",
+      "authors": "Bin Liang Team",
+      "pdf": "2507.05674",
+      "pdfLink": "http://arxiv.org/abs/2507.05674",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "Stable Tracking-in-the-Loop Control of Cable-Driven Surgical Manipulators under Erroneous Kinematic Chains",
+      "authors": "Michael C. Yip Team",
+      "pdf": "2507.05663",
+      "pdfLink": "http://arxiv.org/abs/2507.05663",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "DreamGrasp: Zero-Shot 3D Multi-Object Reconstruction from Partial-View Images for Robotic Manipulation",
+      "authors": "Frank Chongwoo Park Team",
+      "pdf": "2507.05627",
+      "pdfLink": "http://arxiv.org/abs/2507.05627",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-07",
+      "title": "Gaussian Process-Based Active Exploration Strategies in Vision and Touch",
+      "authors": "Nadia Figueroa Team",
+      "pdf": "2507.05522",
+      "pdfLink": "http://arxiv.org/abs/2507.05522",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-07",
+      "title": "A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation",
+      "authors": "Russ Tedrake Team",
+      "pdf": "2507.05331",
+      "pdfLink": "http://arxiv.org/abs/2507.05331",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-07",
+      "title": "VOTE: Vision-Language-Action Optimization with Trajectory Ensemble Voting",
+      "authors": "Yanzhi Wang Team",
+      "pdf": "2507.05116",
+      "pdfLink": "http://arxiv.org/abs/2507.05116",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-07",
+      "title": "When Imitation Learning Outperforms Reinforcement Learning in Surgical Action Planning",
+      "authors": "Sebastien Ourselin Team",
+      "pdf": "2507.05011",
+      "pdfLink": "http://arxiv.org/abs/2507.05011",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-07",
+      "title": "Training-free Generation of Temporally Consistent Rewards from VLMs",
+      "authors": "Jian Tang Team",
+      "pdf": "2507.04789",
+      "pdfLink": "http://arxiv.org/abs/2507.04789",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-07",
+      "title": "DRAE: Dynamic Retrieval-Augmented Expert Networks for Lifelong Learning and Task Adaptation in Robotics",
+      "authors": "Mingsheng Shang Team",
+      "pdf": "2507.04661",
+      "pdfLink": "http://arxiv.org/abs/2507.04661",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-07",
+      "title": "PRISM: Pointcloud Reintegrated Inference via Segmentation and Cross-attention for Manipulation",
+      "authors": "Chee-Meng Chew Team",
+      "pdf": "2507.04633",
+      "pdfLink": "http://arxiv.org/abs/2507.04633",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-07",
+      "title": "Learning Robust Stereo Matching in the Wild with Selective Mixture-of-Experts",
+      "authors": "Junjie Hu Team",
+      "pdf": "2507.04631",
+      "pdfLink": "http://arxiv.org/abs/2507.04631",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-06",
+      "title": "VLM-TDP: VLM-guided Trajectory-conditioned Diffusion Policy for Robust Long-Horizon Manipulation",
+      "authors": "Lei Han Team",
+      "pdf": "2507.04524",
+      "pdfLink": "http://arxiv.org/abs/2507.04524",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-06",
+      "title": "DreamVLA: A Vision-Language-Action Model Dreamed with Comprehensive World Knowledge",
+      "authors": "Xin Jin Team",
+      "pdf": "2507.04447",
+      "pdfLink": "http://arxiv.org/abs/2507.04447",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-06",
+      "title": "Wavelet Policy: Lifting Scheme for Policy Learning in Long-Horizon Tasks",
+      "authors": "Yi Fang Team",
+      "pdf": "2507.04331",
+      "pdfLink": "http://arxiv.org/abs/2507.04331",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-05",
+      "title": "Are Learning-Based Approaches Ready for Real-World Indoor Navigation? A Case for Imitation Learning",
+      "authors": "Sebastian Houben Team",
+      "pdf": "2507.04086",
+      "pdfLink": "http://arxiv.org/abs/2507.04086",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-05",
+      "title": "Breaking Imitation Bottlenecks: Reinforced Diffusion Powers Diverse Trajectory Generation",
+      "authors": "Yadan Luo Team",
+      "pdf": "2507.04049",
+      "pdfLink": "http://arxiv.org/abs/2507.04049",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-08",
+      "title": "RwoR: Generating Robot Demonstrations from Human Hand Collection for Policy Learning without Robot",
+      "authors": "Hao Dong Team",
+      "pdf": "2507.03930",
+      "pdfLink": "http://arxiv.org/abs/2507.03930",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-05",
+      "title": "DK-RRT: Deep Koopman RRT for Collision-Aware Motion Planning of Space Manipulators in Dynamic Debris Environments",
+      "authors": "Dezhi Yu Team",
+      "pdf": "2507.03878",
+      "pdfLink": "http://arxiv.org/abs/2507.03878",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-04",
+      "title": "Dexterous Teleoperation of 20-DoF ByteDexter Hand via Human Motion Retargeting",
+      "authors": "Zeyu Ren Team",
+      "pdf": "2507.03227",
+      "pdfLink": "http://arxiv.org/abs/2507.03227",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-02",
+      "title": "cVLA: Towards Efficient Camera-Space VLAs",
+      "authors": "Thomas Brox Team",
+      "pdf": "2507.02190",
+      "pdfLink": "http://arxiv.org/abs/2507.02190",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-02",
+      "title": "Towards Bio-Inspired Robotic Trajectory Planning via Self-Supervised RNN",
+      "authors": "Matthias Kerzel Team",
+      "pdf": "2507.02171",
+      "pdfLink": "http://arxiv.org/abs/2507.02171",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-02",
+      "title": "TypeTele: Releasing Dexterity in Teleoperation by Dexterous Manipulation Types",
+      "authors": "Wei-Shi Zheng Team",
+      "pdf": "2507.01857",
+      "pdfLink": "http://arxiv.org/abs/2507.01857",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-02",
+      "title": "S3D: A Spatial Steerable Surgical Drilling Framework for Robotic Spinal Fixation Procedures",
+      "authors": "Farshid Alambeigi Team",
+      "pdf": "2507.01779",
+      "pdfLink": "http://arxiv.org/abs/2507.01779",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-03",
+      "title": "TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control",
+      "authors": "Yanwei Fu Team",
+      "pdf": "2507.01424",
+      "pdfLink": "http://arxiv.org/abs/2507.01424",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Search-Based Robot Motion Planning With Distance-Based Adaptive Motion Primitives",
+      "authors": "Bakir Lacevic Team",
+      "pdf": "2507.01198",
+      "pdfLink": "http://arxiv.org/abs/2507.01198",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Imitation Learning for Satellite Attitude Control under Unknown Perturbations",
+      "authors": "Xiaoli Bai Team",
+      "pdf": "2507.01161",
+      "pdfLink": "http://arxiv.org/abs/2507.01161",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "SonoGym: High Performance Simulation for Challenging Surgical Tasks with Robotic Ultrasound",
+      "authors": "Philipp Fürnstahl Team",
+      "pdf": "2507.01152",
+      "pdfLink": "http://arxiv.org/abs/2507.01152",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Geometry-aware 4D Video Generation for Robot Manipulation",
+      "authors": "Shuran Song Team",
+      "pdf": "2507.01099",
+      "pdfLink": "http://arxiv.org/abs/2507.01099",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "DexWrist: A Robotic Wrist for Constrained and Dynamic Manipulation",
+      "authors": "Pulkit Agrawal Team",
+      "pdf": "2507.01008",
+      "pdfLink": "http://arxiv.org/abs/2507.01008",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-04",
+      "title": "Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations",
+      "authors": "Yunzhu Li Team",
+      "pdf": "2507.00990",
+      "pdfLink": "http://arxiv.org/abs/2507.00990",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "HumanoidGen: Data Generation for Bimanual Dexterous Manipulation via LLM Reasoning",
+      "authors": "Chenjia Bai Team",
+      "pdf": "2507.00833",
+      "pdfLink": "http://arxiv.org/abs/2507.00833",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Learning Steerable Imitation Controllers from Unstructured Animal Motions",
+      "authors": "Stelian Coros Team",
+      "pdf": "2507.00677",
+      "pdfLink": "http://arxiv.org/abs/2507.00677",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "RoboEval: Where Robotic Manipulation Meets Structured and Scalable Evaluation",
+      "authors": "Siddhartha Srinivasa Team",
+      "pdf": "2507.00435",
+      "pdfLink": "http://arxiv.org/abs/2507.00435",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Adapt Your Body: Mitigating Proprioception Shifts in Imitation Learning",
+      "authors": "Yang Gao Team",
+      "pdf": "2506.23944",
+      "pdfLink": "http://arxiv.org/abs/2506.23944",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-30",
+      "title": "World4Omni: A Zero-Shot Framework from Image Generation World Model to Robotic Manipulation",
+      "authors": "Lin Shao Team",
+      "pdf": "2506.23919",
+      "pdfLink": "http://arxiv.org/abs/2506.23919",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-30",
+      "title": "Advancing Learnable Multi-Agent Pathfinding Solvers with Active Fine-Tuning",
+      "authors": "Alexey Skrynnik Team",
+      "pdf": "2506.23793",
+      "pdfLink": "http://arxiv.org/abs/2506.23793",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-30",
+      "title": "PAC Bench: Do Foundation Models Understand Prerequisites for Executing Manipulation Policies?",
+      "authors": "Ransalu Senanayake Team",
+      "pdf": "2506.23725",
+      "pdfLink": "http://arxiv.org/abs/2506.23725",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-04",
+      "title": "ParticleFormer: A 3D Point Cloud World Model for Multi-Object, Multi-Material Robotic Manipulation",
+      "authors": "Mac Schwager Team",
+      "pdf": "2506.23126",
+      "pdfLink": "http://arxiv.org/abs/2506.23126",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-29",
+      "title": "Learning Motion Skills with Adaptive Assistive Curriculum Force in Humanoid Robots",
+      "authors": "Yue Gao Team",
+      "pdf": "2506.23125",
+      "pdfLink": "http://arxiv.org/abs/2506.23125",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-28",
+      "title": "Hierarchical Vision-Language Planning for Multi-Step Humanoid Manipulation",
+      "authors": "Navid Azizan Team",
+      "pdf": "2506.22827",
+      "pdfLink": "http://arxiv.org/abs/2506.22827",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-28",
+      "title": "SPI-BoTER: Error Compensation for Industrial Robots via Sparse Attention Masking and Hybrid Loss with Spatial-Physical Information",
+      "authors": "Yuqiang Wu Team",
+      "pdf": "2506.22788",
+      "pdfLink": "http://arxiv.org/abs/2506.22788",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-28",
+      "title": "Learning Efficient Robotic Garment Manipulation with Standardization",
+      "authors": "Bin He Team",
+      "pdf": "2506.22769",
+      "pdfLink": "http://arxiv.org/abs/2506.22769",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-28",
+      "title": "RoboPearls: Editable Video Simulation for Robot Manipulation",
+      "authors": "Xiaodan Liang Team",
+      "pdf": "2506.22756",
+      "pdfLink": "http://arxiv.org/abs/2506.22756",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-27",
+      "title": "Spherical Pendulum with Quad-Rotor Thrust Vectoring Actuation – A Novel Mechatronics and Control Benchmark Platform",
+      "authors": "Tsu-Chin Tsao Team",
+      "pdf": "2506.22410",
+      "pdfLink": "http://arxiv.org/abs/2506.22410",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-27",
+      "title": "RoboEnvision: A Long-Horizon Video Generation Model for Multi-Task Robot Manipulation",
+      "authors": "Abhinav Valada Team",
+      "pdf": "2506.22007",
+      "pdfLink": "http://arxiv.org/abs/2506.22007",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-26",
+      "title": "Experimental investigation of pose informed reinforcement learning for skid-steered visual navigation",
+      "authors": "Venkat Krovi Team",
+      "pdf": "2506.21732",
+      "pdfLink": "http://arxiv.org/abs/2506.21732",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-24",
+      "title": "Ark: An Open-source Python-based Framework for Robot Learning",
+      "authors": "Haitham Bou-Ammar Team",
+      "pdf": "2506.21628",
+      "pdfLink": "http://arxiv.org/abs/2506.21628",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-24",
+      "title": "FrankenBot: Brain-Morphic Modular Orchestration for Robotic Manipulation with Vision-Language Models",
+      "authors": "Huiping Zhuang Team",
+      "pdf": "2506.21627",
+      "pdfLink": "http://arxiv.org/abs/2506.21627",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-26",
+      "title": "ACTLLM: Action Consistency Tuned Large Language Model",
+      "authors": "Chenliang Xu Team",
+      "pdf": "2506.21250",
+      "pdfLink": "http://arxiv.org/abs/2506.21250",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-02",
+      "title": "World-aware Planning Narratives Enhance Large Vision-Language Model Planner",
+      "authors": "Xipeng Qiu Team",
+      "pdf": "2506.21230",
+      "pdfLink": "http://arxiv.org/abs/2506.21230",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-26",
+      "title": "UAIbot: Beginner-friendly web-based simulator for interactive robotics learning and research",
+      "authors": "Vinicius Mariano Gonçalves Team",
+      "pdf": "2506.21178",
+      "pdfLink": "http://arxiv.org/abs/2506.21178",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-26",
+      "title": "Knowledge-Driven Imitation Learning: Enabling Generalization Across Diverse Conditions",
+      "authors": "Cewu Lu Team",
+      "pdf": "2506.21057",
+      "pdfLink": "http://arxiv.org/abs/2506.21057",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-26",
+      "title": "Parallels Between VLA Model Post-Training and Human Motor Learning: Progress, Challenges, and Trends",
+      "authors": "Zeng-Guang Hou Team",
+      "pdf": "2506.20966",
+      "pdfLink": "http://arxiv.org/abs/2506.20966",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-25",
+      "title": "Learning-Based Distance Estimation for 360° Single-Sensor Setups",
+      "authors": "Andreas Zell Team",
+      "pdf": "2506.20586",
+      "pdfLink": "http://arxiv.org/abs/2506.20586",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-25",
+      "title": "Learn to Position – A Novel Meta Method for Robotic Positioning",
+      "authors": "Xiaoming Tao Team",
+      "pdf": "2506.20445",
+      "pdfLink": "http://arxiv.org/abs/2506.20445",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-25",
+      "title": "Beyond-Expert Performance with Limited Demonstrations: Efficient Imitation Learning with Double Exploration",
+      "authors": "Quanquan Gu Team",
+      "pdf": "2506.20307",
+      "pdfLink": "http://arxiv.org/abs/2506.20307",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-24",
+      "title": "Unified Vision-Language-Action Model",
+      "authors": "Zhaoxiang Zhang Team",
+      "pdf": "2506.19850",
+      "pdfLink": "http://arxiv.org/abs/2506.19850",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-24",
+      "title": "T-Rex: Task-Adaptive Spatial Representation Extraction for Robotic Manipulation with Vision-Language Models",
+      "authors": "Qingyao Wu Team",
+      "pdf": "2506.19498",
+      "pdfLink": "http://arxiv.org/abs/2506.19498",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-24",
+      "title": "Is an object-centric representation beneficial for robotic manipulation ?",
+      "authors": "Liming Chen Team",
+      "pdf": "2506.19408",
+      "pdfLink": "http://arxiv.org/abs/2506.19408",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-24",
+      "title": "Robotic Perception with a Large Tactile-Vision-Language Model for Physical Property Inference",
+      "authors": "Nutan Chen Team",
+      "pdf": "2506.19303",
+      "pdfLink": "http://arxiv.org/abs/2506.19303",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-25",
+      "title": "AnchorDP3: 3D Affordance Guided Sparse Diffusion Policy for Robotic Manipulation",
+      "authors": "Hui Shen Team",
+      "pdf": "2506.19269",
+      "pdfLink": "http://arxiv.org/abs/2506.19269",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-24",
+      "title": "Robust Behavior Cloning Via Global Lipschitz Regularization",
+      "authors": "Sean B. Andersson Team",
+      "pdf": "2506.19250",
+      "pdfLink": "http://arxiv.org/abs/2506.19250",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "CUPID: Curating Data your Robot Loves with Influence Functions",
+      "authors": "Jeannette Bohg Team",
+      "pdf": "2506.19121",
+      "pdfLink": "http://arxiv.org/abs/2506.19121",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "Multimodal Anomaly Detection with a Mixture-of-Experts",
+      "authors": "Dongheui Lee Team",
+      "pdf": "2506.19077",
+      "pdfLink": "http://arxiv.org/abs/2506.19077",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-25",
+      "title": "FORTE: Tactile Force and Slip Sensing on Compliant Fingers for Delicate Manipulation",
+      "authors": "Lillian Chin Team",
+      "pdf": "2506.18960",
+      "pdfLink": "http://arxiv.org/abs/2506.18960",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "RAG-6DPose: Retrieval-Augmented 6D Pose Estimation via Leveraging CAD as Knowledge Base",
+      "authors": "Xiangyang Xue Team",
+      "pdf": "2506.18856",
+      "pdfLink": "http://arxiv.org/abs/2506.18856",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "SViP: Sequencing Bimanual Visuomotor Policies with Object-Centric Motion Primitives",
+      "authors": "Jia Pan Team",
+      "pdf": "2506.18825",
+      "pdfLink": "http://arxiv.org/abs/2506.18825",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "Learning Point Correspondences In Radar 3D Point Clouds For Radar-Inertial Odometry",
+      "authors": "Jan Steinbrener Team",
+      "pdf": "2506.18580",
+      "pdfLink": "http://arxiv.org/abs/2506.18580",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "Robots and Children that Learn Together : Improving Knowledge Retention by Teaching Peer-Like Interactive Robots",
+      "authors": "Alessandro Di Nuovo Team",
+      "pdf": "2506.18365",
+      "pdfLink": "http://arxiv.org/abs/2506.18365",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "Robotic Manipulation of a Rotating Chain with Bottom End Fixed",
+      "authors": "Quang-Cuong Pham Team",
+      "pdf": "2506.18355",
+      "pdfLink": "http://arxiv.org/abs/2506.18355",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "Sharpening the Spear: Adaptive Expert-Guided Adversarial Attack Against DRL-based Autonomous Driving Policies",
+      "authors": "Xiaolin Chang Team",
+      "pdf": "2506.18304",
+      "pdfLink": "http://arxiv.org/abs/2506.18304",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-23",
+      "title": "Learning Approach to Efficient Vision-based Active Tracking of a Flying Target by an Unmanned Aerial Vehicle",
+      "authors": "Souma Chowdhury Team",
+      "pdf": "2506.18264",
+      "pdfLink": "http://arxiv.org/abs/2506.18264",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-22",
+      "title": "RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation",
+      "authors": "Yao Mu Team",
+      "pdf": "2506.18088",
+      "pdfLink": "http://arxiv.org/abs/2506.18088",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-21",
+      "title": "RLRC: Reinforcement Learning-based Recovery for Compressed Vision-Language-Action Models",
+      "authors": "Xiao Li Team",
+      "pdf": "2506.17639",
+      "pdfLink": "http://arxiv.org/abs/2506.17639",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-21",
+      "title": "Imitation Learning for Active Neck Motion Enabling Robot Manipulation beyond the Field of View",
+      "authors": "Yasuo Kuniyoshi Team",
+      "pdf": "2506.17624",
+      "pdfLink": "http://arxiv.org/abs/2506.17624",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-20",
+      "title": "Kinematic Model Optimization via Differentiable Contact Manifold for In-Space Manipulation",
+      "authors": "Satyandra K. Gupta Team",
+      "pdf": "2506.17458",
+      "pdfLink": "http://arxiv.org/abs/2506.17458",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-20",
+      "title": "Monocular One-Shot Metric-Depth Alignment for RGB-Based Robot Grasping",
+      "authors": "Jingjin Yu Team",
+      "pdf": "2506.17110",
+      "pdfLink": "http://arxiv.org/abs/2506.17110",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-24",
+      "title": "Learning Accurate Whole-body Throwing with High-frequency Residual Policy and Pullback Tube Acceleration",
+      "authors": "Marco Hutter Team",
+      "pdf": "2506.16986",
+      "pdfLink": "http://arxiv.org/abs/2506.16986",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-20",
+      "title": "Compliant Residual DAgger: Improving Real-World Contact-Rich Manipulation with Human Corrections",
+      "authors": "Shuran Song Team",
+      "pdf": "2506.16685",
+      "pdfLink": "http://arxiv.org/abs/2506.16685",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "CodeDiffuser: Attention-Enhanced Diffusion Policy via VLM-Generated Code for Instruction Ambiguity",
+      "authors": "Yunzhu Li Team",
+      "pdf": "2506.16652",
+      "pdfLink": "http://arxiv.org/abs/2506.16652",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "Reimagination with Test-time Observation Interventions: Distractor-Robust World Model Predictions for Visual Model Predictive Control",
+      "authors": "Ran Tian Team",
+      "pdf": "2506.16565",
+      "pdfLink": "http://arxiv.org/abs/2506.16565",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "An Optimization-Augmented Control Framework for Single and Coordinated Multi-Arm Robotic Manipulation",
+      "authors": "Ozgur S. Oguz Team",
+      "pdf": "2506.16555",
+      "pdfLink": "http://arxiv.org/abs/2506.16555",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "Human2LocoMan: Learning Versatile Quadrupedal Manipulation with Human Pretraining",
+      "authors": "Ding Zhao Team",
+      "pdf": "2506.16475",
+      "pdfLink": "http://arxiv.org/abs/2506.16475",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "GoalLadder: Incremental Goal Discovery with Vision-Language Models",
+      "authors": "Shimon Whiteson Team",
+      "pdf": "2506.16396",
+      "pdfLink": "http://arxiv.org/abs/2506.16396",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "CapsDT: Diffusion-Transformer for Capsule Robot Manipulation",
+      "authors": "Hongliang Ren Team",
+      "pdf": "2506.16263",
+      "pdfLink": "http://arxiv.org/abs/2506.16263",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "ControlVLA: Few-shot Object-centric Adaptation for Pre-trained Vision-Language-Action Models",
+      "authors": "Siyuan Huang Team",
+      "pdf": "2506.16211",
+      "pdfLink": "http://arxiv.org/abs/2506.16211",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "FlowRAM: Grounding Flow Matching Policy with Region-Aware Mamba Framework for Robotic Manipulation",
+      "authors": "Wei Tang Team",
+      "pdf": "2506.16201",
+      "pdfLink": "http://arxiv.org/abs/2506.16201",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "ViTacFormer: Learning Cross-Modal Representation for Visuo-Tactile Dexterous Manipulation",
+      "authors": "Jitendra Malik Team",
+      "pdf": "2506.15953",
+      "pdfLink": "http://arxiv.org/abs/2506.15953",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-18",
+      "title": "Learning from Planned Data to Improve Robotic Pick-and-Place Planning Efficiency",
+      "authors": "Kensuke Harada Team",
+      "pdf": "2506.15920",
+      "pdfLink": "http://arxiv.org/abs/2506.15920",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-18",
+      "title": "Improving Robotic Manipulation: Techniques for Object Pose Estimation, Accommodating Positional Uncertainty, and Disassembly Tasks from Examples",
+      "authors": "Viral Rasik Galaiya Team",
+      "pdf": "2506.15865",
+      "pdfLink": "http://arxiv.org/abs/2506.15865",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-18",
+      "title": "Vision in Action: Learning Active Perception from Human Demonstrations",
+      "authors": "Shuran Song Team",
+      "pdf": "2506.15666",
+      "pdfLink": "http://arxiv.org/abs/2506.15666",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-18",
+      "title": "Learning Task-Agnostic Skill Bases to Uncover Motor Primitives in Animal Behaviors",
+      "authors": "Anqi Wu Team",
+      "pdf": "2506.15190",
+      "pdfLink": "http://arxiv.org/abs/2506.15190",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-18",
+      "title": "Robust Instant Policy: Leveraging Student’s t-Regression Model for Robust In-context Imitation Learning of Robot Manipulation",
+      "authors": "Yukiyasu Domae Team",
+      "pdf": "2506.15157",
+      "pdfLink": "http://arxiv.org/abs/2506.15157",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-18",
+      "title": "TACT: Humanoid Whole-body Contact Manipulation through Deep Imitation Learning with Tactile Modality",
+      "authors": "Eiichi Yoshida Team",
+      "pdf": "2506.15146",
+      "pdfLink": "http://arxiv.org/abs/2506.15146",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-17",
+      "title": "RobotSmith: Generative Robotic Tool Design for Acquisition of Complex Manipulation Skills",
+      "authors": "Chuang Gan Team",
+      "pdf": "2506.14763",
+      "pdfLink": "http://arxiv.org/abs/2506.14763",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-17",
+      "title": "Tactile Beyond Pixels: Multisensory Touch Representations for Robot Manipulation",
+      "authors": "Mustafa Mukadam Team",
+      "pdf": "2506.14754",
+      "pdfLink": "http://arxiv.org/abs/2506.14754",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-17",
+      "title": "SENIOR: Efficient Query Selection and Preference-Guided Exploration in Preference-based Reinforcement Learning",
+      "authors": "Shuo Wang Team",
+      "pdf": "2506.14648",
+      "pdfLink": "http://arxiv.org/abs/2506.14648",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-17",
+      "title": "Latent Action Diffusion for Cross-Embodiment Manipulation",
+      "authors": "Robert K. Katzschmann Team",
+      "pdf": "2506.14608",
+      "pdfLink": "http://arxiv.org/abs/2506.14608",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-19",
+      "title": "ClutterDexGrasp: A Sim-to-Real System for General Dexterous Grasping in Cluttered Scenes",
+      "authors": "Hao Dong Team",
+      "pdf": "2506.14317",
+      "pdfLink": "http://arxiv.org/abs/2506.14317",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-17",
+      "title": "Steering Robots with Inference-Time Interactions",
+      "authors": "Yanwei Wang Team",
+      "pdf": "2506.14287",
+      "pdfLink": "http://arxiv.org/abs/2506.14287",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-17",
+      "title": "AMPLIFY: Actionless Motion Priors for Robot Learning from Videos",
+      "authors": "Animesh Garg Team",
+      "pdf": "2506.14198",
+      "pdfLink": "http://arxiv.org/abs/2506.14198",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-17",
+      "title": "Non-Overlap-Aware Egocentric Pose Estimation for Collaborative Perception in Connected Autonomy",
+      "authors": "Peng Gao Team",
+      "pdf": "2506.14180",
+      "pdfLink": "http://arxiv.org/abs/2506.14180",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-17",
+      "title": "GAF: Gaussian Action Field as a Dvnamic World Model for Robotic Mlanipulation",
+      "authors": "Yebin Liu Team",
+      "pdf": "2506.14135",
+      "pdfLink": "http://arxiv.org/abs/2506.14135",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-16",
+      "title": "ATK: Automatic Task-driven Keypoint Selection for Robust Policy Learning",
+      "authors": "Abhishek Gupta Team",
+      "pdf": "2506.13867",
+      "pdfLink": "http://arxiv.org/abs/2506.13867",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-16",
+      "title": "Touch begins where vision ends: Generalizable policies for contact-rich manipulation",
+      "authors": "Raunaq Bhirangi Team",
+      "pdf": "2506.13762",
+      "pdfLink": "http://arxiv.org/abs/2506.13762",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-16",
+      "title": "Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins",
+      "authors": "Wei-Chiu Ma Team",
+      "pdf": "2506.13761",
+      "pdfLink": "http://arxiv.org/abs/2506.13761",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-16",
+      "title": "What Matters in Learning from Large-Scale Datasets for Robot Manipulation",
+      "authors": "Danfei Xu Team",
+      "pdf": "2506.13536",
+      "pdfLink": "http://arxiv.org/abs/2506.13536",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-16",
+      "title": "A Survey on Imitation Learning for Contact-Rich Tasks in Robotics",
+      "authors": "Arash Ajoudani Team",
+      "pdf": "2506.13498",
+      "pdfLink": "http://arxiv.org/abs/2506.13498",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-16",
+      "title": "Learning Swing-up Maneuvers for a Suspended Aerial Manipulation Platform in a Hierarchical Control Framework",
+      "authors": "Christian Ott Team",
+      "pdf": "2506.13478",
+      "pdfLink": "http://arxiv.org/abs/2506.13478",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-16",
+      "title": "VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation",
+      "authors": "Wei Pan Team",
+      "pdf": "2506.13428",
+      "pdfLink": "http://arxiv.org/abs/2506.13428",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-15",
+      "title": "SP-VLA: A Joint Model Scheduling and Token Pruning Approach for VLA Model Acceleration",
+      "authors": "Wenwu Zhu Team",
+      "pdf": "2506.12723",
+      "pdfLink": "http://arxiv.org/abs/2506.12723",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-15",
+      "title": "Adapting by Analogy: OOD Generalization of Visuomotor Policies via Functional Correspondence",
+      "authors": "Andrea Bajcsy Team",
+      "pdf": "2506.12678",
+      "pdfLink": "http://arxiv.org/abs/2506.12678",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-15",
+      "title": "Goal-based Self-Adaptive Generative Adversarial Imitation Learning (Goal-SAGAIL) for Multi-goal Robotic Manipulation Tasks",
+      "authors": "George Vogiatzis Team",
+      "pdf": "2506.12676",
+      "pdfLink": "http://arxiv.org/abs/2506.12676",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-14",
+      "title": "AntiGrounding: Lifting Robotic Actions into VLM Representation Space for Decision Making",
+      "authors": "Qingyao Wu Team",
+      "pdf": "2506.12374",
+      "pdfLink": "http://arxiv.org/abs/2506.12374",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-13",
+      "title": "Role of Uncertainty in Model Development and Control Design for a Manufacturing Process",
+      "authors": "Francis Assadian Team",
+      "pdf": "2506.12273",
+      "pdfLink": "http://arxiv.org/abs/2506.12273",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-13",
+      "title": "SAIL: Faster-than-Demonstration Execution of Imitation Learning Policies",
+      "authors": "Danfei Xu Team",
+      "pdf": "2506.11948",
+      "pdfLink": "http://arxiv.org/abs/2506.11948",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-13",
+      "title": "mimic-one: a Scalable Model Recipe for General Purpose Robot Dexterity",
+      "authors": "Robert K. Katzschmann Team",
+      "pdf": "2506.11916",
+      "pdfLink": "http://arxiv.org/abs/2506.11916",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-13",
+      "title": "ExoStart: Efficient learning for dexterous manipulation with sensorized exoskeleton demonstrations",
+      "authors": "Maria Bauza Villalonga Team",
+      "pdf": "2506.11775",
+      "pdfLink": "http://arxiv.org/abs/2506.11775",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-13",
+      "title": "Control Architecture and Design for a Multi-robotic Visual Servoing System in Automated Manufacturing Environment",
+      "authors": "Rongfei Li Team",
+      "pdf": "2506.11387",
+      "pdfLink": "http://arxiv.org/abs/2506.11387",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-12",
+      "title": "Influence Functions for Data Attribution in Linear System Identification and LQR Control",
+      "authors": "Dongmei Chen Team",
+      "pdf": "2506.11293",
+      "pdfLink": "http://arxiv.org/abs/2506.11293",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-12",
+      "title": "Gondola: Grounded Vision Language Planning for Generalizable Robotic Manipulation",
+      "authors": "Cordelia Schmid Team",
+      "pdf": "2506.11261",
+      "pdfLink": "http://arxiv.org/abs/2506.11261",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-12",
+      "title": "Eye, Robot: Learning to Look to Act with a BC-RL Perception-Action Loop",
+      "authors": "Angjoo Kanazawa Team",
+      "pdf": "2506.10968",
+      "pdfLink": "http://arxiv.org/abs/2506.10968",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-12",
+      "title": "GENMANIP: LLM-driven Simulation for Generalizable Instruction-Following Manipulation",
+      "authors": "Jiangmiao Pang Team",
+      "pdf": "2506.10966",
+      "pdfLink": "http://arxiv.org/abs/2506.10966",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-12",
+      "title": "Human-Robot Navigation using Event-based Cameras and Reinforcement Learning",
+      "authors": "Rodrigo Verschae Team",
+      "pdf": "2506.10790",
+      "pdfLink": "http://arxiv.org/abs/2506.10790",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-12",
+      "title": "Demonstrating Multi-Suction Item Picking at Scale via Multi-Modal Learning of Pick Success",
+      "authors": "Kapil Katyal Team",
+      "pdf": "2506.10359",
+      "pdfLink": "http://arxiv.org/abs/2506.10359",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "Innovative Adaptive Imaged Based Visual Servoing Control of 6 DoFs Industrial Robot Manipulators",
+      "authors": "Francis Assadian Team",
+      "pdf": "2506.10240",
+      "pdfLink": "http://arxiv.org/abs/2506.10240",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "One For All: LLM-based Heterogeneous Mission Planning in Precision Agriculture",
+      "authors": "Stefano Carpin Team",
+      "pdf": "2506.10106",
+      "pdfLink": "http://arxiv.org/abs/2506.10106",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "eFlesh: Highly customizable Magnetic Touch Sensing using Cut-Cell Microstructures",
+      "authors": "Raunaq Bhirangi Team",
+      "pdf": "2506.09994",
+      "pdfLink": "http://arxiv.org/abs/2506.09994",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "Chain-of-Action: Trajectory Autoregressive Modeling for Robotic Manipulation",
+      "authors": "Xiao Ma Team",
+      "pdf": "2506.09990",
+      "pdfLink": "http://arxiv.org/abs/2506.09990",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "From Intention to Execution: Probing the Generalization Boundaries of Vision-Language-Action Models",
+      "authors": "Chen Feng Team",
+      "pdf": "2506.09930",
+      "pdfLink": "http://arxiv.org/abs/2506.09930",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "Reinforced Refinement with Self-Aware Expansion for End-to-End Autonomous Driving",
+      "authors": "Chen Lv Team",
+      "pdf": "2506.09800",
+      "pdfLink": "http://arxiv.org/abs/2506.09800",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "CHIP: A multi-sensor dataset for 6D pose estimation of chairs in industrial settings",
+      "authors": "Davide Boscaini Team",
+      "pdf": "2506.09699",
+      "pdfLink": "http://arxiv.org/abs/2506.09699",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "Advances on Affordable Hardware Platforms for Human Demonstration Acquisition in Agricultural Applications",
+      "authors": "Néstor García Team",
+      "pdf": "2506.09494",
+      "pdfLink": "http://arxiv.org/abs/2506.09494",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "DCIRNet: Depth Completion with Iterative Refinement for Dexterous Grasping of Transparent and Reflective Objects",
+      "authors": "Hong Liu Team",
+      "pdf": "2506.09491",
+      "pdfLink": "http://arxiv.org/abs/2506.09491",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "Time-Unified Diffusion Policy with Action Discrimination for Robotic Manipulation",
+      "authors": "Le Wang Team",
+      "pdf": "2506.09422",
+      "pdfLink": "http://arxiv.org/abs/2506.09422",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "Analyzing Key Objectives in Human-to-Robot Retargeting for Dexterous Manipulation",
+      "authors": "Xiang Li Team",
+      "pdf": "2506.09384",
+      "pdfLink": "http://arxiv.org/abs/2506.09384",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "ContextBuddy: AI-Enhanced Contextual Insights for Security Alert Investigation (Applied to Intrusion Detection)",
+      "authors": "Cecile Paris Team",
+      "pdf": "2506.09365",
+      "pdfLink": "http://arxiv.org/abs/2506.09365",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "UAD: Unsupervised Affordance Distillation for Generalization in Robotic Manipulation",
+      "authors": "Li Fei-Fei Team",
+      "pdf": "2506.09284",
+      "pdfLink": "http://arxiv.org/abs/2506.09284",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "Robot-Gated Interactive Imitation Learning with Adaptive Intervention Mechanism",
+      "authors": "Bolei Zhou Team",
+      "pdf": "2506.09176",
+      "pdfLink": "http://arxiv.org/abs/2506.09176",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "FreqPolicy: Efficient Flow-based Visuomotor Policy via Frequency Consistency",
+      "authors": "Jian Tang Team",
+      "pdf": "2506.08822",
+      "pdfLink": "http://arxiv.org/abs/2506.08822",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "Towards Biosignals-Free Autonomous Prosthetic Hand Control via Imitation Learning",
+      "authors": "Xianta Jiang Team",
+      "pdf": "2506.08795",
+      "pdfLink": "http://arxiv.org/abs/2506.08795",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "Bayesian Inverse Physics for Neuro-Symbolic Robot Learning",
+      "authors": "Frank Kirchner Team",
+      "pdf": "2506.08756",
+      "pdfLink": "http://arxiv.org/abs/2506.08756",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "Deep Reinforcement Learning-Based Motion Planning and PDE Control for Flexible Manipulators",
+      "authors": "Jouni Mattila Team",
+      "pdf": "2506.08639",
+      "pdfLink": "http://arxiv.org/abs/2506.08639",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "RoboSwap: A GAN-driven Video Diffusion Framework For Unsupervised Robot Arm Swapping",
+      "authors": "Gitta Kutyniok Team",
+      "pdf": "2506.08632",
+      "pdfLink": "http://arxiv.org/abs/2506.08632",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "Periodic Bipedal Gait Learning Using Reward Composition Based on a Novel Gait Planner for Humanoid Robots",
+      "authors": "Lijun Zhu Team",
+      "pdf": "2506.08416",
+      "pdfLink": "http://arxiv.org/abs/2506.08416",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-11",
+      "title": "HiBerNAC: Hierarchical Brain-emulated Robotic Neural Agent Collective for Disentangling Complex Manipulation",
+      "authors": "Cong Wang Team",
+      "pdf": "2506.08296",
+      "pdfLink": "http://arxiv.org/abs/2506.08296",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-09",
+      "title": "ReCogDrive: A Reinforced Cognitive Framework for End-to-End Autonomous Driving",
+      "authors": "Xinggang Wang Team",
+      "pdf": "2506.08052",
+      "pdfLink": "http://arxiv.org/abs/2506.08052",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-09",
+      "title": "BridgeVLA: Input-Output Alignment for Efficient 3D Manipulation Learning with Vision-Language Models",
+      "authors": "Tieniu Tan Team",
+      "pdf": "2506.07961",
+      "pdfLink": "http://arxiv.org/abs/2506.07961",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-09",
+      "title": "BitVLA: 1-bit Vision-Language-Action Models for Robotics Manipulation",
+      "authors": "Xilin Chen Team",
+      "pdf": "2506.07530",
+      "pdfLink": "http://arxiv.org/abs/2506.07530",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-09",
+      "title": "Reinforcement Learning via Implicit Imitation Guidance",
+      "authors": "Chelsea Finn Team",
+      "pdf": "2506.07505",
+      "pdfLink": "http://arxiv.org/abs/2506.07505",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-09",
+      "title": "RAPID Hand: A Robust, Affordable, Perception-Integrated, Dexterous Manipulation Platform for Generalist Robot Autonomy",
+      "authors": "Hui Cheng Team",
+      "pdf": "2506.07490",
+      "pdfLink": "http://arxiv.org/abs/2506.07490",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-08",
+      "title": "CARoL: Context-aware Adaptation for Robot Learning",
+      "authors": "Xuan Wang Team",
+      "pdf": "2506.07006",
+      "pdfLink": "http://arxiv.org/abs/2506.07006",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-07",
+      "title": "SpikePingpong: High-Frequency Spike Vision-based Robot Learning for Precise Striking in Table Tennis Game",
+      "authors": "Shanghang Zhang Team",
+      "pdf": "2506.06690",
+      "pdfLink": "http://arxiv.org/abs/2506.06690",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-07",
+      "title": "RoboCerebra: A Large-scale Benchmark for Long-horizon Robotic Manipulation Evaluation",
+      "authors": "Si Liu Team",
+      "pdf": "2506.06677",
+      "pdfLink": "http://arxiv.org/abs/2506.06677",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-07",
+      "title": "Self-Adapting Improvement Loops for Robotic Learning",
+      "authors": "Chen Sun Team",
+      "pdf": "2506.06658",
+      "pdfLink": "http://arxiv.org/abs/2506.06658",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "Enhancing Robot Safety via MLLM-Based Semantic Interpretation of Failure Data",
+      "authors": "Somil Bansal Team",
+      "pdf": "2506.06570",
+      "pdfLink": "http://arxiv.org/abs/2506.06570",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "NeSyPack: A Neuro-Symbolic Framework for Bimanual Logistics Packing",
+      "authors": "Changliu Liu Team",
+      "pdf": "2506.06567",
+      "pdfLink": "http://arxiv.org/abs/2506.06567",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "MapleGrasp: Mask-guided Feature Pooling for Language-driven Efficient Robotic Grasping",
+      "authors": "Farshad Khorrami Team",
+      "pdf": "2506.06535",
+      "pdfLink": "http://arxiv.org/abs/2506.06535",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "3DFlowAction: Learning Cross-Embodiment Manipulation from 3D Flow World Model",
+      "authors": "Mingkui Tan Team",
+      "pdf": "2506.06199",
+      "pdfLink": "http://arxiv.org/abs/2506.06199",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "Bridging Perception and Action: Spatially-Grounded Mid-Level Representations for Robot Generalization",
+      "authors": "Tingnan Zhang Team",
+      "pdf": "2506.06196",
+      "pdfLink": "http://arxiv.org/abs/2506.06196",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-10",
+      "title": "BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning",
+      "authors": "Rudolf Lioutikov Team",
+      "pdf": "2506.06072",
+      "pdfLink": "http://arxiv.org/abs/2506.06072",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "Dynamic Mixture of Progressive Parameter-Efficient Expert Library for Lifelong Robot Learning",
+      "authors": "Ping Luo Team",
+      "pdf": "2506.05985",
+      "pdfLink": "http://arxiv.org/abs/2506.05985",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "Optimal Robotic Velcro Peeling with Force Feedback",
+      "authors": "Volkan Isler Team",
+      "pdf": "2506.05812",
+      "pdfLink": "http://arxiv.org/abs/2506.05812",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "Where Do We Look When We Teach? Analyzing Human Gaze Behavior Across Demonstration Devices in Robot Imitation Learning",
+      "authors": "Hiroshi Bito Team",
+      "pdf": "2506.05808",
+      "pdfLink": "http://arxiv.org/abs/2506.05808",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "FlowOE: Imitation Learning with Flow Policy from Ensemble RL Experts for Optimal Execution under Heston Volatility and Concave Market Impacts",
+      "authors": "Zhi Chen Team",
+      "pdf": "2506.05755",
+      "pdfLink": "http://arxiv.org/abs/2506.05755",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "You Only Estimate Once: Unified, One-stage, Real-Time Category-level Articulated Object 6D Pose Estimation for Robotic Grasping",
+      "authors": "Xiangyang Xue Team",
+      "pdf": "2506.05719",
+      "pdfLink": "http://arxiv.org/abs/2506.05719",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-05",
+      "title": "A Smooth Sea Never Made a Skilled $\\texttt{SAILOR}$ : Robust Imitation via Learning to Search",
+      "authors": "Gokul Swamy Team",
+      "pdf": "2506.05294",
+      "pdfLink": "http://arxiv.org/abs/2506.05294",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-05",
+      "title": "LiPo: A Lightweight Post-optimization Framework for Smoothing Action Chunks Generated by Learned Policies",
+      "authors": "Suhan Park Team",
+      "pdf": "2506.05165",
+      "pdfLink": "http://arxiv.org/abs/2506.05165",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-05",
+      "title": "DemoSpeedup: Accelerating Visuomotor Policies via Entropy-Guided Demonstration Acceleration",
+      "authors": "Huazhe Xu Team",
+      "pdf": "2506.05064",
+      "pdfLink": "http://arxiv.org/abs/2506.05064",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-06",
+      "title": "ArtVIP: Articulated Digital Assets of Visual Realism, Modular Interaction, and Physical Fidelity for Robot Learning",
+      "authors": "Jian Tang Team",
+      "pdf": "2506.04941",
+      "pdfLink": "http://arxiv.org/abs/2506.04941",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-05",
+      "title": "Learning dissection trajectories from expert surgical videos via imitation learning with equivariant diffusion",
+      "authors": "Qi Dou Team",
+      "pdf": "2506.04716",
+      "pdfLink": "http://arxiv.org/abs/2506.04716",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-05",
+      "title": "Advancing Tool-Augmented Large Language Models via Meta-Verification and Reflection Learning",
+      "authors": "Wanxiang Che Team",
+      "pdf": "2506.04625",
+      "pdfLink": "http://arxiv.org/abs/2506.04625",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-04",
+      "title": "SGN-CIRL: Scene Graph-based Navigation with Curriculum, Imitation, and Reinforcement Learning",
+      "authors": "Aleksandr Panov Team",
+      "pdf": "2506.04505",
+      "pdfLink": "http://arxiv.org/abs/2506.04505",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-04",
+      "title": "Object-centric 3D Motion Field for Robot Learning from Human Videos",
+      "authors": "Pieter Abbeel Team",
+      "pdf": "2506.04227",
+      "pdfLink": "http://arxiv.org/abs/2506.04227",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-04",
+      "title": "Splatting Physical Scenes: End-to-End Real-to-Sim from Imperfect Robot Data",
+      "authors": "Leonard Hasenclever Team",
+      "pdf": "2506.04120",
+      "pdfLink": "http://arxiv.org/abs/2506.04120",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-04",
+      "title": "STAR: Learning Diverse Robot Skill Abstractions through Rotation-Augmented Vector Quantization",
+      "authors": "Liqiang Nie Team",
+      "pdf": "2506.03863",
+      "pdfLink": "http://arxiv.org/abs/2506.03863",
+      "code": "link"
+    },
+    {
+      "date": "2025-06-04",
+      "title": "SwitchVLA: Execution-Aware Task Switching for Vision-Language-Action Models",
+      "authors": "Jian Tang Team",
+      "pdf": "2506.03574",
+      "pdfLink": "http://arxiv.org/abs/2506.03574",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-05",
+      "title": "Confidence-Guided Human-AI Collaboration: Reinforcement Learning with Distributional Proxy Value Propagation for Autonomous Driving",
+      "authors": "Hu Chuan Team",
+      "pdf": "2506.03568",
+      "pdfLink": "http://arxiv.org/abs/2506.03568",
+      "code": "link"
+    },
+    {
+      "date": "2025-06-03",
+      "title": "ORV: 4D Occupancy-centric Robot Video Generation",
+      "authors": "Hao Zhao Team",
+      "pdf": "2506.03079",
+      "pdfLink": "http://arxiv.org/abs/2506.03079",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-03",
+      "title": "Geometric Visual Servo Via Optimal Transport",
+      "authors": "Ashutosh Tiwari Team",
+      "pdf": "2506.02768",
+      "pdfLink": "http://arxiv.org/abs/2506.02768",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-03",
+      "title": "Rodrigues Network for Learning Robot Actions",
+      "authors": "Leonidas Guibas Team",
+      "pdf": "2506.02618",
+      "pdfLink": "http://arxiv.org/abs/2506.02618",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-03",
+      "title": "Reachability Weighted Offline Goal-conditioned Resampling",
+      "authors": "Joni Pajarinen Team",
+      "pdf": "2506.02577",
+      "pdfLink": "http://arxiv.org/abs/2506.02577",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "Fast-in-Slow: A Dual-System Foundation Model Unifying Fast Manipulation within Slow Reasoning",
+      "authors": "Pheng-Ann Heng Team",
+      "pdf": "2506.01953",
+      "pdfLink": "http://arxiv.org/abs/2506.01953",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "Feel the Force: Contact-Driven Learning from Humans",
+      "authors": "Lerrel Pinto Team",
+      "pdf": "2506.01944",
+      "pdfLink": "http://arxiv.org/abs/2506.01944",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "Learning Video Generation for Robotic Manipulation with Collaborative Trajectory Control",
+      "authors": "Dahua Lin Team",
+      "pdf": "2506.01943",
+      "pdfLink": "http://arxiv.org/abs/2506.01943",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "FreeTacMan: Robot-free Visuo-Tactile Data Collection System for Contact-rich Manipulation",
+      "authors": "Hongyang Li Team",
+      "pdf": "2506.01941",
+      "pdfLink": "http://arxiv.org/abs/2506.01941",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "Learning with pyCub: A New Simulation and Exercise Framework for Humanoid Robotics",
+      "authors": "Matej Hoffmann Team",
+      "pdf": "2506.01756",
+      "pdfLink": "http://arxiv.org/abs/2506.01756",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "Reasoning-Table: Exploring Reinforcement Learning for Table Reasoning",
+      "authors": "Kang Liu Team",
+      "pdf": "2506.01710",
+      "pdfLink": "http://arxiv.org/abs/2506.01710",
+      "code": "link"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "WoMAP: World Models For Embodied Open-Vocabulary Object Localization",
+      "authors": "Anirudha Majumdar Team",
+      "pdf": "2506.01600",
+      "pdfLink": "http://arxiv.org/abs/2506.01600",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "FreqPolicy: Frequency Autoregressive Visuomotor Policy with Continuous Tokens",
+      "authors": "Yuexin Ma Team",
+      "pdf": "2506.01583",
+      "pdfLink": "http://arxiv.org/abs/2506.01583",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "Trajectory First: A Curriculum for Discovering Diverse Policies",
+      "authors": "Marc Toussaint Team",
+      "pdf": "2506.01568",
+      "pdfLink": "http://arxiv.org/abs/2506.01568",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-02",
+      "title": "Variational Adaptive Noise and Dropout towards Stable Recurrent Neural Networks",
+      "authors": "Shingo Murata Team",
+      "pdf": "2506.01350",
+      "pdfLink": "http://arxiv.org/abs/2506.01350",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-01",
+      "title": "OG-VLA: 3D-Aware Vision Language Action Model via Orthographic Image Generation",
+      "authors": "Valts Blukis Team",
+      "pdf": "2506.01196",
+      "pdfLink": "http://arxiv.org/abs/2506.01196",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-01",
+      "title": "HoMeR: Learning In-the-Wild Mobile Manipulation via Hybrid Imitation and Whole-Body Control",
+      "authors": "Jeannette Bohg Team",
+      "pdf": "2506.01185",
+      "pdfLink": "http://arxiv.org/abs/2506.01185",
+      "code": "null"
+    },
+    {
+      "date": "2025-06-01",
+      "title": "Jailbreak-R1: Exploring the Jailbreak Capabilities of LLMs via Reinforcement Learning",
+      "authors": "Jing Li Team",
+      "pdf": "2506.00782",
+      "pdfLink": "http://arxiv.org/abs/2506.00782",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-31",
+      "title": "XYZ-IBD: High-precision Bin-picking Dataset for Object 6D Pose Estimation Capturing Real-world Industrial Complexity",
+      "authors": "Benjamin Busam Team",
+      "pdf": "2506.00599",
+      "pdfLink": "http://arxiv.org/abs/2506.00599",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-31",
+      "title": "Dyna-Think: Synergizing Reasoning, Acting, and World Model Simulation in AI Agents",
+      "authors": "Zhou Yu Team",
+      "pdf": "2506.00320",
+      "pdfLink": "http://arxiv.org/abs/2506.00320",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "3D Gaussian Splat Vulnerabilities",
+      "authors": "Polo Chau Team",
+      "pdf": "2506.00280",
+      "pdfLink": "http://arxiv.org/abs/2506.00280",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "Bi-Manual Joint Camera Calibration and Scene Representation",
+      "authors": "Weiming Zhi Team",
+      "pdf": "2505.24819",
+      "pdfLink": "http://arxiv.org/abs/2505.24819",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "MagicGripper: A Multimodal Sensor-Integrated Gripper for Contact-Rich Robotic Manipulation",
+      "authors": "Dandan Zhang Team",
+      "pdf": "2505.24382",
+      "pdfLink": "http://arxiv.org/abs/2505.24382",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "Imitation Learning-Based Path Generation for the Complex Assembly of Deformable Objects",
+      "authors": "Christoffer Sloth Team",
+      "pdf": "2505.24339",
+      "pdfLink": "http://arxiv.org/abs/2505.24339",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "SR3D: Unleashing Single-view 3D Reconstruction for Transparent and Specular Object Grasping",
+      "authors": "Hao Dong Team",
+      "pdf": "2505.24305",
+      "pdfLink": "http://arxiv.org/abs/2505.24305",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "Safety-Aware Robust Model Predictive Control for Robotic Arms in Dynamic Environments",
+      "authors": "Suwoong Lee Team",
+      "pdf": "2505.24209",
+      "pdfLink": "http://arxiv.org/abs/2505.24209",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "Learning Gentle Humanoid Locomotion and End-Effector Stabilization Control",
+      "authors": "Guanya Shi Team",
+      "pdf": "2505.24198",
+      "pdfLink": "http://arxiv.org/abs/2505.24198",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-29",
+      "title": "Mobi- $π$ : Mobilizing Your Robot Learning Policy",
+      "authors": "Jeannette Bohg Team",
+      "pdf": "2505.23692",
+      "pdfLink": "http://arxiv.org/abs/2505.23692",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "Normalizing Flows are Capable Models for RL",
+      "authors": "Benjamin Eysenbach Team",
+      "pdf": "2505.23527",
+      "pdfLink": "http://arxiv.org/abs/2505.23527",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-29",
+      "title": "Optimization-based Posture Generation for Whole-body Contact Motion by Contact Point Search on the Body Surface",
+      "authors": "Masayuki Inaba Team",
+      "pdf": "2505.23501",
+      "pdfLink": "http://arxiv.org/abs/2505.23501",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-29",
+      "title": "Agentic Robot: A Brain-Inspired Framework for Vision-Language-Action Models in Embodied Agents",
+      "authors": "Lichao Sun Team",
+      "pdf": "2505.23450",
+      "pdfLink": "http://arxiv.org/abs/2505.23450",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-29",
+      "title": "Enhanced DACER Algorithm with High Diffusion Efficiency",
+      "authors": "Shengbo Eben Li Team",
+      "pdf": "2505.23426",
+      "pdfLink": "http://arxiv.org/abs/2505.23426",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-29",
+      "title": "RoboTransfer: Geometry-Consistent Video Diffusion for Robotic Visual Policy Transfer",
+      "authors": "Zhizhong Su Team",
+      "pdf": "2505.23171",
+      "pdfLink": "http://arxiv.org/abs/2505.23171",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-28",
+      "title": "SCIZOR: A Self-Supervised Approach to Data Curation for Large-Scale Imitation Learning",
+      "authors": "Yuke Zhu Team",
+      "pdf": "2505.22626",
+      "pdfLink": "http://arxiv.org/abs/2505.22626",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-28",
+      "title": "Hybrid Learning for Cold-Start-Aware Microservice Scheduling in Dynamic Edge Environments",
+      "authors": "Weijia Jia Team",
+      "pdf": "2505.22424",
+      "pdfLink": "http://arxiv.org/abs/2505.22424",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-28",
+      "title": "Efficient Precision-Scalable Hardware for Microscaling (MX) Processing in Robotics Learning",
+      "authors": "Marian Verhelst Team",
+      "pdf": "2505.22404",
+      "pdfLink": "http://arxiv.org/abs/2505.22404",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-28",
+      "title": "State and Input Constrained Adaptive Tracking Control of Uncertain Euler-Lagrange Systems with Robustness and Feasibility Analysis",
+      "authors": "Shubhendu Bhasin Team",
+      "pdf": "2505.22352",
+      "pdfLink": "http://arxiv.org/abs/2505.22352",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-28",
+      "title": "ForceVLA: Enhancing VLA Models with a Force-aware MoE for Contact-rich Manipulation",
+      "authors": "Wenqiang Zhang Team",
+      "pdf": "2505.22159",
+      "pdfLink": "http://arxiv.org/abs/2505.22159",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-28",
+      "title": "Learning Compositional Behaviors from Demonstration and Language",
+      "authors": "Jiajun Wu Team",
+      "pdf": "2505.21981",
+      "pdfLink": "http://arxiv.org/abs/2505.21981",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-29",
+      "title": "ChatVLA-2: Vision-Language-Action Model with Open-World Embodied Reasoning from Pretrained Knowledge",
+      "authors": "Yi Xu Team",
+      "pdf": "2505.21906",
+      "pdfLink": "http://arxiv.org/abs/2505.21906",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-28",
+      "title": "Streaming Flow Policy: Simplifying diffusion $/$ flow-matching policies by treating action trajectories as flow trajectories",
+      "authors": "Siddharth Ancha Team",
+      "pdf": "2505.21851",
+      "pdfLink": "http://arxiv.org/abs/2505.21851",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "PartInstruct: Part-level Instruction Following for Fine-grained Robot Manipulation",
+      "authors": "Tianmin Shu Team",
+      "pdf": "2505.21652",
+      "pdfLink": "http://arxiv.org/abs/2505.21652",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-30",
+      "title": "Right Side Up? Disentangling Orientation Understanding in MLLMs with Fine-grained Multi-axis Perception Tasks",
+      "authors": "Bryan A. Plummer Team",
+      "pdf": "2505.21649",
+      "pdfLink": "http://arxiv.org/abs/2505.21649",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "CLAMP: Crowdsourcing a LArge-scale in-the-wild haptic dataset with an open-source device for Multimodal robot Perception",
+      "authors": "Tapomayukh Bhattacharjee Team",
+      "pdf": "2505.21495",
+      "pdfLink": "http://arxiv.org/abs/2505.21495",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "EquAct: An SE(3)-Equivariant Multi-Task Transformer for Open-Loop Robotic Manipulation",
+      "authors": "Robert Platt Team",
+      "pdf": "2505.21351",
+      "pdfLink": "http://arxiv.org/abs/2505.21351",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "EgoWalk: A Multimodal Dataset for Robot Navigation in the Wild",
+      "authors": "Gonzalo Ferrer Team",
+      "pdf": "2505.21282",
+      "pdfLink": "http://arxiv.org/abs/2505.21282",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "Learning What to Do and What Not To Do: Offline Imitation from Expert and Undesirable Demonstrations",
+      "authors": "Tanvi Verma Team",
+      "pdf": "2505.21182",
+      "pdfLink": "http://arxiv.org/abs/2505.21182",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "Object-Centric Action-Enhanced Representations for Robot Visuo-Motor Policy Learning",
+      "authors": "George Retsinas Team",
+      "pdf": "2505.20962",
+      "pdfLink": "http://arxiv.org/abs/2505.20962",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "Learning Unified Force and Position Control for Legged Loco-Manipulation",
+      "authors": "Siyuan Huang Team",
+      "pdf": "2505.20829",
+      "pdfLink": "http://arxiv.org/abs/2505.20829",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "Spatial RoboGrasp: Generalized Robotic Grasping Control Policy",
+      "authors": "Luhui Hu Team",
+      "pdf": "2505.20814",
+      "pdfLink": "http://arxiv.org/abs/2505.20814",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "Learning Generalizable Robot Policy with Human Demonstration Video as a Prompt",
+      "authors": "Jianyu Chen Team",
+      "pdf": "2505.20795",
+      "pdfLink": "http://arxiv.org/abs/2505.20795",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-28",
+      "title": "ControlTac: Force- and Position-Controlled Tactile Data Augmentation with a Single Reference Image",
+      "authors": "Ruohan Gao Team",
+      "pdf": "2505.20498",
+      "pdfLink": "http://arxiv.org/abs/2505.20498",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-26",
+      "title": "OSVI-WM: One-Shot Visual Imitation for Unseen Tasks using World-Model-Guided Trajectory Generation",
+      "authors": "Farshad Khorrami Team",
+      "pdf": "2505.20425",
+      "pdfLink": "http://arxiv.org/abs/2505.20425",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-26",
+      "title": "Co-Design of Soft Gripper with Neural Physics",
+      "authors": "Xiaolong Wang Team",
+      "pdf": "2505.20404",
+      "pdfLink": "http://arxiv.org/abs/2505.20404",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-26",
+      "title": "EgoZero: Robot Learning from Smart Glasses",
+      "authors": "Lerrel Pinto Team",
+      "pdf": "2505.20290",
+      "pdfLink": "http://arxiv.org/abs/2505.20290",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-26",
+      "title": "URPlanner: A Universal Paradigm For Collision-Free Robotic Motion Planning Based on Deep Reinforcement Learning",
+      "authors": "Marcelo H. Ang Jr Team",
+      "pdf": "2505.20175",
+      "pdfLink": "http://arxiv.org/abs/2505.20175",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-27",
+      "title": "MineAnyBuild: Benchmarking Spatial Planning for Open-world AI Agents",
+      "authors": "Xiaodan Liang Team",
+      "pdf": "2505.20148",
+      "pdfLink": "http://arxiv.org/abs/2505.20148",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-26",
+      "title": "ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving",
+      "authors": "Dongbin Zhao Team",
+      "pdf": "2505.20024",
+      "pdfLink": "http://arxiv.org/abs/2505.20024",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-26",
+      "title": "Inverse Q-Learning Done Right: Offline Imitation Learning in $Q^π$ -Realizable MDPs",
+      "authors": "Luca Viano Team",
+      "pdf": "2505.19946",
+      "pdfLink": "http://arxiv.org/abs/2505.19946",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-26",
+      "title": "TeViR: Text-to-Video Reward with Diffusion Models for Efficient Reinforcement Learning",
+      "authors": "Dongbin Zhao Team",
+      "pdf": "2505.19769",
+      "pdfLink": "http://arxiv.org/abs/2505.19769",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-26",
+      "title": "Extremum Flow Matching for Offline Goal Conditioned Reinforcement Learning",
+      "authors": "Jean-Baptiste Mouret Team",
+      "pdf": "2505.19717",
+      "pdfLink": "http://arxiv.org/abs/2505.19717",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-25",
+      "title": "Structured Reinforcement Learning for Combinatorial Decision-Making",
+      "authors": "Maximilian Schiffer Team",
+      "pdf": "2505.19053",
+      "pdfLink": "http://arxiv.org/abs/2505.19053",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-25",
+      "title": "WorldEval: World Model as Real-World Robot Policies Evaluator",
+      "authors": "Yi Xu Team",
+      "pdf": "2505.19017",
+      "pdfLink": "http://arxiv.org/abs/2505.19017",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-25",
+      "title": "Online Knowledge Distillation with Reward Guidance",
+      "authors": "Chen Jia Team",
+      "pdf": "2505.18952",
+      "pdfLink": "http://arxiv.org/abs/2505.18952",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "Guided by Guardrails: Control Barrier Functions as Safety Instructors for Robotic Learning",
+      "authors": "Giovanni Beltrame Team",
+      "pdf": "2505.18858",
+      "pdfLink": "http://arxiv.org/abs/2505.18858",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "On the Dual-Use Dilemma in Physical Reasoning and Force",
+      "authors": "Nikolaus Correll Team",
+      "pdf": "2505.18792",
+      "pdfLink": "http://arxiv.org/abs/2505.18792",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "VLA-RL: Towards Masterful and General Robotic Manipulation with Scalable Reinforcement Learning",
+      "authors": "Ziwei Wang Team",
+      "pdf": "2505.18719",
+      "pdfLink": "http://arxiv.org/abs/2505.18719",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "MisoDICE: Multi-Agent Imitation from Unlabeled Mixed-Quality Demonstrations",
+      "authors": "Hong Thanh Nguyen Team",
+      "pdf": "2505.18595",
+      "pdfLink": "http://arxiv.org/abs/2505.18595",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "Grounding Bodily Awareness in Visual Representations for Efficient Policy Learning",
+      "authors": "Zhiyun Lin Team",
+      "pdf": "2505.18487",
+      "pdfLink": "http://arxiv.org/abs/2505.18487",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "Canonical Policy: Learning Canonical 3D Representation for Equivariant Policy",
+      "authors": "Yu She Team",
+      "pdf": "2505.18474",
+      "pdfLink": "http://arxiv.org/abs/2505.18474",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "ManiFeel: Benchmarking and Understanding Visuotactile Manipulation Policy Learning",
+      "authors": "Yu She Team",
+      "pdf": "2505.18472",
+      "pdfLink": "http://arxiv.org/abs/2505.18472",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-23",
+      "title": "ProgRM: Build Better GUI Agents with Progress Rewards",
+      "authors": "Kai Yu Team",
+      "pdf": "2505.18121",
+      "pdfLink": "http://arxiv.org/abs/2505.18121",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-23",
+      "title": "Classification of assembly tasks combining multiple primitive actions using Transformers and xLSTMs",
+      "authors": "Pedro Neto Team",
+      "pdf": "2505.18012",
+      "pdfLink": "http://arxiv.org/abs/2505.18012",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-23",
+      "title": "Is Single-View Mesh Reconstruction Ready for Robotics?",
+      "authors": "Ingmar Posner Team",
+      "pdf": "2505.17966",
+      "pdfLink": "http://arxiv.org/abs/2505.17966",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-23",
+      "title": "SynRES: Towards Referring Expression Segmentation in the Wild via Synthetic Data",
+      "authors": "Donghyun Kim Team",
+      "pdf": "2505.17695",
+      "pdfLink": "http://arxiv.org/abs/2505.17695",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-23",
+      "title": "Learning Equilibria from Data: Provably Efficient Multi-Agent Imitation Learning",
+      "authors": "Giorgia Ramponi Team",
+      "pdf": "2505.17610",
+      "pdfLink": "http://arxiv.org/abs/2505.17610",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-23",
+      "title": "Dynamic Manipulation of Deformable Objects in 3D: Simulation, Benchmark and Learning Strategy",
+      "authors": "Bin Zhao Team",
+      "pdf": "2505.17434",
+      "pdfLink": "http://arxiv.org/abs/2505.17434",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-23",
+      "title": "Bootstrapping Imitation Learning for Long-horizon Manipulation via Hierarchical Data Collection Space",
+      "authors": "Hui Cheng Team",
+      "pdf": "2505.17389",
+      "pdfLink": "http://arxiv.org/abs/2505.17389",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "ScanBot: Towards Intelligent Surface Scanning in Embodied Robotic Systems",
+      "authors": "Farhad Imani Team",
+      "pdf": "2505.17295",
+      "pdfLink": "http://arxiv.org/abs/2505.17295",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "CoMo: Learning Continuous Latent Motion from Internet Videos for Scalable Robot Learning",
+      "authors": "Limin Wang Team",
+      "pdf": "2505.17006",
+      "pdfLink": "http://arxiv.org/abs/2505.17006",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "3D Equivariant Visuomotor Policy Learning via Spherical Projection",
+      "authors": "Robin Walters Team",
+      "pdf": "2505.16969",
+      "pdfLink": "http://arxiv.org/abs/2505.16969",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "Efficient Online RL Fine Tuning with Offline Pre-trained Policy Only",
+      "authors": "Donglin Wang Team",
+      "pdf": "2505.16856",
+      "pdfLink": "http://arxiv.org/abs/2505.16856",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "Find the Fruit: Designing a Zero-Shot Sim2Real Deep RL Planner for Occlusion Aware Plant Manipulation",
+      "authors": "Soumik Sarkar Team",
+      "pdf": "2505.16547",
+      "pdfLink": "http://arxiv.org/abs/2505.16547",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-24",
+      "title": "ManipLVM-R1: Reinforcement Learning for Reasoning in Embodied Manipulation with Large Vision-Language Models",
+      "authors": "Xiuying Chen Team",
+      "pdf": "2505.16517",
+      "pdfLink": "http://arxiv.org/abs/2505.16517",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "Raw2Drive: Reinforcement Learning with Aligned World Models for End-to-End Autonomous Driving (in CARLA v2)",
+      "authors": "Junchi Yan Team",
+      "pdf": "2505.16394",
+      "pdfLink": "http://arxiv.org/abs/2505.16394",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "TacCompress: A Benchmark for Multi-Point Tactile Data Compression in Dexterous Manipulation",
+      "authors": "Hengdi Zhang Team",
+      "pdf": "2505.16289",
+      "pdfLink": "http://arxiv.org/abs/2505.16289",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "SEM: Enhancing Spatial Understanding for Robust Robot Manipulation",
+      "authors": "Zhizhong Su Team",
+      "pdf": "2505.16196",
+      "pdfLink": "http://arxiv.org/abs/2505.16196",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-22",
+      "title": "Tactile-based Reinforcement Learning for Adaptive Grasping under Observation Uncertainties",
+      "authors": "Yang Ye Team",
+      "pdf": "2505.16167",
+      "pdfLink": "http://arxiv.org/abs/2505.16167",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "WaveTouch: Active Tactile Sensing Using Vibro-Feedback for Classification of Variable Stiffness and Infill Density Objects",
+      "authors": "Bakhtiyar Orazbayev Team",
+      "pdf": "2505.16062",
+      "pdfLink": "http://arxiv.org/abs/2505.16062",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-25",
+      "title": "Proactive Hierarchical Control Barrier Function-Based Safety Prioritization in Close Human-Robot Interaction Scenarios",
+      "authors": "Prashanth Krishnamurthy Team",
+      "pdf": "2505.16055",
+      "pdfLink": "http://arxiv.org/abs/2505.16055",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "UAV-Flow Colosseo: A Real-World Benchmark for Flying-on-a-Word UAV Imitation Learning",
+      "authors": "Si Liu Team",
+      "pdf": "2505.15725",
+      "pdfLink": "http://arxiv.org/abs/2505.15725",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "Exploring the Limits of Vision-Language-Action Manipulations in Cross-task Generalization",
+      "authors": "Junwei Liang Team",
+      "pdf": "2505.15660",
+      "pdfLink": "http://arxiv.org/abs/2505.15660",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "FLARE: Robot Learning with Implicit World Modeling",
+      "authors": "Linxi Fan Team",
+      "pdf": "2505.15659",
+      "pdfLink": "http://arxiv.org/abs/2505.15659",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "Robo2VLM: Visual Question Answering from Large-Scale In-the-Wild Robot Manipulation Datasets",
+      "authors": "Ken Goldberg Team",
+      "pdf": "2505.15517",
+      "pdfLink": "http://arxiv.org/abs/2505.15517",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "Guided Policy Optimization under Partial Observability",
+      "authors": "Zongqing Lu Team",
+      "pdf": "2505.15418",
+      "pdfLink": "http://arxiv.org/abs/2505.15418",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "Saliency-Aware Quantized Imitation Learning for Efficient Robotic Control",
+      "authors": "Jungwook Choi Team",
+      "pdf": "2505.15304",
+      "pdfLink": "http://arxiv.org/abs/2505.15304",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "Learning-based Autonomous Oversteer Control and Collision Avoidance",
+      "authors": "Seung-Hyun Kong Team",
+      "pdf": "2505.15275",
+      "pdfLink": "http://arxiv.org/abs/2505.15275",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "Filtering Learning Histories Enhances In-Context Reinforcement Learning",
+      "authors": "Santiago Paternain Team",
+      "pdf": "2505.15143",
+      "pdfLink": "http://arxiv.org/abs/2505.15143",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "Object-Focus Actor for Data-efficient Robot Generalization Dexterous Manipulation",
+      "authors": "Xiaodong He Team",
+      "pdf": "2505.15098",
+      "pdfLink": "http://arxiv.org/abs/2505.15098",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "RoboCulture: A Robotics Platform for Automated Biological Experimentation",
+      "authors": "Milica Radisic Team",
+      "pdf": "2505.14941",
+      "pdfLink": "http://arxiv.org/abs/2505.14941",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "Imitation Learning via Focused Satisficing",
+      "authors": "Brian Ziebart Team",
+      "pdf": "2505.14820",
+      "pdfLink": "http://arxiv.org/abs/2505.14820",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "DORA: Object Affordance-Guided Reinforcement Learning for Dexterous Robotic Manipulation",
+      "authors": "Jianwei Zhang Team",
+      "pdf": "2505.14819",
+      "pdfLink": "http://arxiv.org/abs/2505.14819",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "Vid2World: Crafting Video Diffusion Models to Interactive World Models",
+      "authors": "Mingsheng Long Team",
+      "pdf": "2505.14357",
+      "pdfLink": "http://arxiv.org/abs/2505.14357",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "AutoBio: A Simulation and Benchmark for Robotic Automation in Digital Biology Laboratory",
+      "authors": "Ping Luo Team",
+      "pdf": "2505.14030",
+      "pdfLink": "http://arxiv.org/abs/2505.14030",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "RLVR-World: Training World Models with Reinforcement Learning",
+      "authors": "Mingsheng Long Team",
+      "pdf": "2505.13934",
+      "pdfLink": "http://arxiv.org/abs/2505.13934",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "Time Reversal Symmetry for Efficient Robotic Manipulations in Deep Reinforcement Learning",
+      "authors": "Yutong Ban Team",
+      "pdf": "2505.13925",
+      "pdfLink": "http://arxiv.org/abs/2505.13925",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "Learning to Insert for Constructive Neural Vehicle Routing Solver",
+      "authors": "Qingfu Zhang Team",
+      "pdf": "2505.13904",
+      "pdfLink": "http://arxiv.org/abs/2505.13904",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "Structured Agent Distillation for Large Language Model",
+      "authors": "Yanzhi Wang Team",
+      "pdf": "2505.13820",
+      "pdfLink": "http://arxiv.org/abs/2505.13820",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-21",
+      "title": "Adaptive Diffusion Constrained Sampling for Bimanual Robot Manipulation",
+      "authors": "Georgia Chalvatzaki Team",
+      "pdf": "2505.13667",
+      "pdfLink": "http://arxiv.org/abs/2505.13667",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "TD-GRPC: Temporal Difference Learning with Group Relative Policy Constraint for Humanoid Locomotion",
+      "authors": "Minh Nhat Vu Team",
+      "pdf": "2505.13549",
+      "pdfLink": "http://arxiv.org/abs/2505.13549",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "GraspMolmo: Generalizable Task-Oriented Grasping via Large-Scale Synthetic Data Generation",
+      "authors": "Rose Hendrix Team",
+      "pdf": "2505.13441",
+      "pdfLink": "http://arxiv.org/abs/2505.13441",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "KinTwin: Imitation Learning with Torque and Muscle Driven Biomechanical Models Enables Precise Replication of Able-Bodied and Impaired Movement from Markerless Motion Capture",
+      "authors": "R. James Cotton Team",
+      "pdf": "2505.13436",
+      "pdfLink": "http://arxiv.org/abs/2505.13436",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "TeleOpBench: A Simulator-Centric Benchmark for Dual-Arm Dexterous Teleoperation",
+      "authors": "Jiangmiao Pang Team",
+      "pdf": "2505.12748",
+      "pdfLink": "http://arxiv.org/abs/2505.12748",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "Incentivizing Multimodal Reasoning in Large Models for Direct Robot Manipulation",
+      "authors": "Chi-Wing Fu Team",
+      "pdf": "2505.12744",
+      "pdfLink": "http://arxiv.org/abs/2505.12744",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "Option-aware Temporally Abstracted Value for Offline Goal-Conditioned Reinforcement Learning",
+      "authors": "Taesup Moon Team",
+      "pdf": "2505.12737",
+      "pdfLink": "http://arxiv.org/abs/2505.12737",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "DreamGen: Unlocking Generalization in Robot Learning through Neural Trajectories",
+      "authors": "Linxi Fan Team",
+      "pdf": "2505.12705",
+      "pdfLink": "http://arxiv.org/abs/2505.12705",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "Dribble Master: Learning Agile Humanoid Dribbling Through Legged Locomotion",
+      "authors": "Qi Wu Team",
+      "pdf": "2505.12679",
+      "pdfLink": "http://arxiv.org/abs/2505.12679",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-19",
+      "title": "HIL: Hybrid Imitation Learning of Diverse Parkour Skills from Videos",
+      "authors": "Xue Bin Peng Team",
+      "pdf": "2505.12619",
+      "pdfLink": "http://arxiv.org/abs/2505.12619",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-18",
+      "title": "MTIL: Encoding Full History with Mamba for Temporal Imitation Learning",
+      "authors": "Zhouping Yin Team",
+      "pdf": "2505.12410",
+      "pdfLink": "http://arxiv.org/abs/2505.12410",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-18",
+      "title": "PartDexTOG: Generating Dexterous Task-Oriented Grasping via Language-driven Part Analysis",
+      "authors": "Zhipong Cai Team",
+      "pdf": "2505.12294",
+      "pdfLink": "http://arxiv.org/abs/2505.12294",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "RoboFAC: A Comprehensive Framework for Robotic Failure Analysis and Correction",
+      "authors": "Bo Zhao Team",
+      "pdf": "2505.12224",
+      "pdfLink": "http://arxiv.org/abs/2505.12224",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-20",
+      "title": "Learning Impact-Rich Rotational Maneuvers via Centroidal Velocity Rewards and Sim-to-Real Techniques: A One-Leg Hopper Flip Case Study",
+      "authors": "Hae-Won Park Team",
+      "pdf": "2505.12222",
+      "pdfLink": "http://arxiv.org/abs/2505.12222",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-17",
+      "title": "L2D2: Robot Learning from 2D Drawings",
+      "authors": "Dylan P. Losey Team",
+      "pdf": "2505.12072",
+      "pdfLink": "http://arxiv.org/abs/2505.12072",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-17",
+      "title": "H2R: A Human-to-Robot Data Augmentation for Robot Pre-training from Videos",
+      "authors": "Shanghang Zhang Team",
+      "pdf": "2505.11920",
+      "pdfLink": "http://arxiv.org/abs/2505.11920",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-17",
+      "title": "GLOVER++: Unleashing the Potential of Affordance Learning from Human Behaviors for Robotic Manipulation",
+      "authors": "Junwei Liang Team",
+      "pdf": "2505.11865",
+      "pdfLink": "http://arxiv.org/abs/2505.11865",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-17",
+      "title": "Learning IMU Bias with Diffusion Model",
+      "authors": "Guoquan Huang Team",
+      "pdf": "2505.11763",
+      "pdfLink": "http://arxiv.org/abs/2505.11763",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "Zero-Shot Visual Generalization in Robot Manipulation",
+      "authors": "Gaurav Sukhatme Team",
+      "pdf": "2505.11719",
+      "pdfLink": "http://arxiv.org/abs/2505.11719",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "Employing Laban Shape for Generating Emotionally and Functionally Expressive Trajectories in Robotic Manipulators",
+      "authors": "Alessandro Roncone Team",
+      "pdf": "2505.11716",
+      "pdfLink": "http://arxiv.org/abs/2505.11716",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "EgoDex: Learning Dexterous Manipulation from Large-Scale Egocentric Video",
+      "authors": "Jian Zhang Team",
+      "pdf": "2505.11709",
+      "pdfLink": "http://arxiv.org/abs/2505.11709",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "Grounded Task Axes: Zero-Shot Semantic Skill Generalization via Task-Axis Controllers and Visual Foundation Models",
+      "authors": "Oliver Kroemer Team",
+      "pdf": "2505.11680",
+      "pdfLink": "http://arxiv.org/abs/2505.11680",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "SHIELD: Safety on Humanoids via CBFs In Expectation on Learned Dynamics",
+      "authors": "Aaron D. Ames Team",
+      "pdf": "2505.11494",
+      "pdfLink": "http://arxiv.org/abs/2505.11494",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "Exploiting Radiance Fields for Grasp Generation on Novel Synthetic Views",
+      "authors": "Todor Stoyanov Team",
+      "pdf": "2505.11467",
+      "pdfLink": "http://arxiv.org/abs/2505.11467",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "ReWiND: Language-Guided Rewards Teach Robot Policies without New Demonstrations",
+      "authors": "Jesse Zhang Team",
+      "pdf": "2505.10911",
+      "pdfLink": "http://arxiv.org/abs/2505.10911",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "Counterfactual Behavior Cloning: Offline Imitation Learning from Imperfect Human Demonstrations",
+      "authors": "Dylan P. Losey Team",
+      "pdf": "2505.10760",
+      "pdfLink": "http://arxiv.org/abs/2505.10760",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "Infinigen-Sim: Procedural Generation of Articulated Simulation Assets",
+      "authors": "Jia Deng Team",
+      "pdf": "2505.10755",
+      "pdfLink": "http://arxiv.org/abs/2505.10755",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "Knowledge capture, adaptation and composition (KCAC): A framework for cross-task curriculum learning in robotic manipulation",
+      "authors": "Yan Jin Team",
+      "pdf": "2505.10522",
+      "pdfLink": "http://arxiv.org/abs/2505.10522",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "IN-RIL: Interleaved Reinforcement and Imitation Learning for Policy Fine-Tuning",
+      "authors": "Junshan Zhang Team",
+      "pdf": "2505.10442",
+      "pdfLink": "http://arxiv.org/abs/2505.10442",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "NVSPolicy: Adaptive Novel-View Synthesis for Generalizable Language-Conditioned Policy Learning",
+      "authors": "Chengyuan Chen Team",
+      "pdf": "2505.10359",
+      "pdfLink": "http://arxiv.org/abs/2505.10359",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "SRT-H: A Hierarchical Framework for Autonomous Surgery via Language Conditioned Imitation Learning",
+      "authors": "Axel Krieger Team",
+      "pdf": "2505.10251",
+      "pdfLink": "http://arxiv.org/abs/2505.10251",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "Training People to Reward Robots",
+      "authors": "Matthew Howard Team",
+      "pdf": "2505.10151",
+      "pdfLink": "http://arxiv.org/abs/2505.10151",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "EmbodiedMAE: A Unified 3D Multi-Modal Representation for Robot Manipulation",
+      "authors": "Jianye Hao Team",
+      "pdf": "2505.10105",
+      "pdfLink": "http://arxiv.org/abs/2505.10105",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "FlowDreamer: A RGB-D World Model with Flow-based Motion Representations for Robot Manipulation",
+      "authors": "Qing Li Team",
+      "pdf": "2505.10075",
+      "pdfLink": "http://arxiv.org/abs/2505.10075",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "APEX: Action Priors Enable Efficient Exploration for Skill Imitation on Articulated Robots",
+      "authors": "Guillaume Sartoretti Team",
+      "pdf": "2505.10022",
+      "pdfLink": "http://arxiv.org/abs/2505.10022",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "ImagineBench: Evaluating Reinforcement Learning with Large Language Model Rollouts",
+      "authors": "Yang Yu Team",
+      "pdf": "2505.10010",
+      "pdfLink": "http://arxiv.org/abs/2505.10010",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "PointArena: Probing Multimodal Grounding Through Language-Guided Pointing",
+      "authors": "Ranjay Krishna Team",
+      "pdf": "2505.09990",
+      "pdfLink": "http://arxiv.org/abs/2505.09990",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-15",
+      "title": "Learning Diverse Natural Behaviors for Enhancing the Agility of Quadrupedal Robots",
+      "authors": "Chunlin Chen Team",
+      "pdf": "2505.09979",
+      "pdfLink": "http://arxiv.org/abs/2505.09979",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Learning Rock Pushability on Rough Planetary Terrain",
+      "authors": "Cagri Kilic Team",
+      "pdf": "2505.09833",
+      "pdfLink": "http://arxiv.org/abs/2505.09833",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Trailblazer: Learning offroad costmaps for long range planning",
+      "authors": "Srikanth Saripalli Team",
+      "pdf": "2505.09739",
+      "pdfLink": "http://arxiv.org/abs/2505.09739",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "EnerVerse-AC: Envisioning Embodied Environments with Action Condition",
+      "authors": "Guanghui Ren Team",
+      "pdf": "2505.09723",
+      "pdfLink": "http://arxiv.org/abs/2505.09723",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation",
+      "authors": "Daniel Seita Team",
+      "pdf": "2505.09698",
+      "pdfLink": "http://arxiv.org/abs/2505.09698",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "DataMIL: Selecting Data for Robot Imitation Learning with Datamodels",
+      "authors": "Roberto Martín-Martín Team",
+      "pdf": "2505.09603",
+      "pdfLink": "http://arxiv.org/abs/2505.09603",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Real2Render2Real: Scaling Robot Data Without Dynamics Simulation or Robot Hardware",
+      "authors": "Ken Goldberg Team",
+      "pdf": "2505.09601",
+      "pdfLink": "http://arxiv.org/abs/2505.09601",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation",
+      "authors": "Shuo Wang Team",
+      "pdf": "2505.09577",
+      "pdfLink": "http://arxiv.org/abs/2505.09577",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Learning Long-Context Diffusion Policies via Past-Token Prediction",
+      "authors": "Chelsea Finn Team",
+      "pdf": "2505.09561",
+      "pdfLink": "http://arxiv.org/abs/2505.09561",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Distilling Realizable Students from Unrealizable Teachers",
+      "authors": "Sanjiban Choudhury Team",
+      "pdf": "2505.09546",
+      "pdfLink": "http://arxiv.org/abs/2505.09546",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Exploring Pose-Guided Imitation Learning for Robotic Precise Insertion",
+      "authors": "Qixin Cao Team",
+      "pdf": "2505.09424",
+      "pdfLink": "http://arxiv.org/abs/2505.09424",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Neural Multivariate Regression: Qualitative Insights from the Unconstrained Feature Model",
+      "authors": "Keith Ross Team",
+      "pdf": "2505.09308",
+      "pdfLink": "http://arxiv.org/abs/2505.09308",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Latent Theory of Mind: A Decentralized Diffusion Architecture for Cooperative Manipulation",
+      "authors": "Guillaume Sartoretti Team",
+      "pdf": "2505.09144",
+      "pdfLink": "http://arxiv.org/abs/2505.09144",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "FoldNet: Learning Generalizable Closed-Loop Policy for Garment Folding via Keypoint-Driven Asset and Demonstration Synthesis",
+      "authors": "He Wang Team",
+      "pdf": "2505.09109",
+      "pdfLink": "http://arxiv.org/abs/2505.09109",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-14",
+      "title": "Imitation Learning for Adaptive Control of a Virtual Soft Exoglove",
+      "authors": "Letizia Gionfrida Team",
+      "pdf": "2505.09099",
+      "pdfLink": "http://arxiv.org/abs/2505.09099",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "ChicGrasp: Imitation-Learning based Customized Dual-Jaw Gripper Control for Delicate, Irregular Bio-products Manipulation",
+      "authors": "Dongyi Wang Team",
+      "pdf": "2505.08986",
+      "pdfLink": "http://arxiv.org/abs/2505.08986",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "Augmented Reality for RObots (ARRO): Pointing Visuomotor Policies Towards Visual Robustness",
+      "authors": "Wolfram Burgard Team",
+      "pdf": "2505.08627",
+      "pdfLink": "http://arxiv.org/abs/2505.08627",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "Beyond Predefined Actions: Integrating Behavior Trees and Dynamic Movement Primitives for Robot Learning from Demonstration",
+      "authors": "Todor Stoyanov Team",
+      "pdf": "2505.08625",
+      "pdfLink": "http://arxiv.org/abs/2505.08625",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "From Seeing to Doing: Bridging Reasoning and Decision for Robotic Manipulation",
+      "authors": "Jianye Hao Team",
+      "pdf": "2505.08548",
+      "pdfLink": "http://arxiv.org/abs/2505.08548",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "Parameter Estimation using Reinforcement Learning Causal Curiosity: Limits and Challenges",
+      "authors": "Weisi Guo Team",
+      "pdf": "2505.08453",
+      "pdfLink": "http://arxiv.org/abs/2505.08453",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "Adaptive Diffusion Policy Optimization for Robotic Manipulation",
+      "authors": "Zhuang Yang Team",
+      "pdf": "2505.08376",
+      "pdfLink": "http://arxiv.org/abs/2505.08376",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "Learning Like Humans: Advancing LLM Reasoning Capabilities via Adaptive Difficulty Curriculum Learning and Expert-Guided Self-Reformulation",
+      "authors": "Qianchun Lu Team",
+      "pdf": "2505.08364",
+      "pdfLink": "http://arxiv.org/abs/2505.08364",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "Modeling Unseen Environments with Language-guided Composable Causal Components in Reinforcement Learning",
+      "authors": "Biwei Huang Team",
+      "pdf": "2505.08361",
+      "pdfLink": "http://arxiv.org/abs/2505.08361",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "HandCept: A Visual-Inertial Fusion Framework for Accurate Proprioception in Dexterous Hands",
+      "authors": "Yunhui Liu Team",
+      "pdf": "2505.08213",
+      "pdfLink": "http://arxiv.org/abs/2505.08213",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-13",
+      "title": "CLTP: Contrastive Language-Tactile Pre-training for 3D Contact Geometry Understanding",
+      "authors": "Shuo Wang Team",
+      "pdf": "2505.08194",
+      "pdfLink": "http://arxiv.org/abs/2505.08194",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-12",
+      "title": "What Matters for Batch Online Reinforcement Learning in Robotics?",
+      "authors": "Chelsea Finn Team",
+      "pdf": "2505.08078",
+      "pdfLink": "http://arxiv.org/abs/2505.08078",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-12",
+      "title": "H $^{\\mathbf{3}}$ DP: Triply-Hierarchical Diffusion Policy for Visuomotor Learning",
+      "authors": "Huazhe Xu Team",
+      "pdf": "2505.07819",
+      "pdfLink": "http://arxiv.org/abs/2505.07819",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-12",
+      "title": "Imagine, Verify, Execute: Memory-Guided Agentic Exploration with Vision-Language Models",
+      "authors": "Jia-Bin Huang Team",
+      "pdf": "2505.07815",
+      "pdfLink": "http://arxiv.org/abs/2505.07815",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-12",
+      "title": "Improving Trajectory Stitching with Flow Models",
+      "authors": "Ioannis Havoutis Team",
+      "pdf": "2505.07802",
+      "pdfLink": "http://arxiv.org/abs/2505.07802",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-12",
+      "title": "Guiding Data Collection via Factored Scaling Curves",
+      "authors": "Anirudha Majumdar Team",
+      "pdf": "2505.07728",
+      "pdfLink": "http://arxiv.org/abs/2505.07728",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-12",
+      "title": "GelFusion: Enhancing Robotic Manipulation under Visual Constraints via Visuotactile Fusion",
+      "authors": "Peng Yin Team",
+      "pdf": "2505.07455",
+      "pdfLink": "http://arxiv.org/abs/2505.07455",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-12",
+      "title": "ReinboT: Amplifying Robot Visual-Language Manipulation with Reinforcement Learning",
+      "authors": "Donglin Wang Team",
+      "pdf": "2505.07395",
+      "pdfLink": "http://arxiv.org/abs/2505.07395",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-11",
+      "title": "X-Sim: Cross-Embodiment Learning via Real-to-Sim-to-Real",
+      "authors": "Sanjiban Choudhury Team",
+      "pdf": "2505.07096",
+      "pdfLink": "http://arxiv.org/abs/2505.07096",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-11",
+      "title": "YOPOv2-Tracker: An End-to-End Agile Tracking and Navigation Framework from Perception to Action",
+      "authors": "Bailing Tian Team",
+      "pdf": "2505.06923",
+      "pdfLink": "http://arxiv.org/abs/2505.06923",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-10",
+      "title": "JaxRobotarium: Training and Deploying Multi-Robot Policies in 10 Minutes",
+      "authors": "Harish Ravichandar Team",
+      "pdf": "2505.06771",
+      "pdfLink": "http://arxiv.org/abs/2505.06771",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-10",
+      "title": "Learned IMU Bias Prediction for Invariant Visual Inertial Odometry",
+      "authors": "Nikolay Atanasov Team",
+      "pdf": "2505.06748",
+      "pdfLink": "http://arxiv.org/abs/2505.06748",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-10",
+      "title": "ACORN: Adaptive Contrastive Optimization for Safe and Robust Fine-Grained Robotic Manipulation",
+      "authors": "Zixian Yue Team",
+      "pdf": "2505.06628",
+      "pdfLink": "http://arxiv.org/abs/2505.06628",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-10",
+      "title": "Video-Enhanced Offline Reinforcement Learning: A Model-Based Approach",
+      "authors": "Xiaokang Yang Team",
+      "pdf": "2505.06482",
+      "pdfLink": "http://arxiv.org/abs/2505.06482",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-09",
+      "title": "Adaptive Wiping: Adaptive contact-rich manipulation through few-shot imitation learning with Force-Torque feedback and pre-trained object representations",
+      "authors": "Gentiane Venture Team",
+      "pdf": "2505.06451",
+      "pdfLink": "http://arxiv.org/abs/2505.06451",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-09",
+      "title": "VIN-NBV: A View Introspection Network for Next-Best-View Selection for Resource-Efficient 3D Reconstruction",
+      "authors": "Roni Sengupta Team",
+      "pdf": "2505.06219",
+      "pdfLink": "http://arxiv.org/abs/2505.06219",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-09",
+      "title": "Neuro-Symbolic Concepts",
+      "authors": "Jiajun Wu Team",
+      "pdf": "2505.06191",
+      "pdfLink": "http://arxiv.org/abs/2505.06191",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-07",
+      "title": "Efficient Sensorimotor Learning for Open-world Robot Manipulation",
+      "authors": "Yifeng Zhu Team",
+      "pdf": "2505.06136",
+      "pdfLink": "http://arxiv.org/abs/2505.06136",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-09",
+      "title": "Robot Learning Using Multi-Coordinate Elastic Maps",
+      "authors": "Reza Azadeh Team",
+      "pdf": "2505.06092",
+      "pdfLink": "http://arxiv.org/abs/2505.06092",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-09",
+      "title": "TREND: Tri-teaching for Robust Preference-based Reinforcement Learning with Demonstrations",
+      "authors": "Abhinav Shrivastava Team",
+      "pdf": "2505.06079",
+      "pdfLink": "http://arxiv.org/abs/2505.06079",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-09",
+      "title": "3D CAVLA: Leveraging Depth and 3D Context to Generalize Vision Language Action Models for Unseen Tasks",
+      "authors": "Farshad Khorrami Team",
+      "pdf": "2505.05800",
+      "pdfLink": "http://arxiv.org/abs/2505.05800",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-09",
+      "title": "Demystifying Diffusion Policies: Action Memorization and Simple Lookup Table Alternatives",
+      "authors": "Mac Schwager Team",
+      "pdf": "2505.05787",
+      "pdfLink": "http://arxiv.org/abs/2505.05787",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-09",
+      "title": "FlowHFT: Flow Policy Induced Optimal High-Frequency Trading under Diverse Market Conditions",
+      "authors": "Steve Yang Team",
+      "pdf": "2505.05784",
+      "pdfLink": "http://arxiv.org/abs/2505.05784",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-08",
+      "title": "CLAM: Continuous Latent Action Models for Robot Learning from Unlabeled Demonstrations",
+      "authors": "Stephen Tu Team",
+      "pdf": "2505.04999",
+      "pdfLink": "http://arxiv.org/abs/2505.04999",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-08",
+      "title": "CubeDAgger: Improved Robustness of Interactive Imitation Learning without Violation of Dynamic Stability",
+      "authors": "Taisuke Kobayashi Team",
+      "pdf": "2505.04897",
+      "pdfLink": "http://arxiv.org/abs/2505.04897",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-08",
+      "title": "D-CODA: Diffusion for Coordinated Dual-Arm Data Augmentation",
+      "authors": "Daniel Seita Team",
+      "pdf": "2505.04860",
+      "pdfLink": "http://arxiv.org/abs/2505.04860",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-07",
+      "title": "Steerable Scene Generation with Post Training and Inference-Time Search",
+      "authors": "Russ Tedrake Team",
+      "pdf": "2505.04831",
+      "pdfLink": "http://arxiv.org/abs/2505.04831",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-07",
+      "title": "Primal-dual algorithm for contextual stochastic combinatorial optimization",
+      "authors": "Axel Parmentier Team",
+      "pdf": "2505.04757",
+      "pdfLink": "http://arxiv.org/abs/2505.04757",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-07",
+      "title": "Merging and Disentangling Views in Visual Reinforcement Learning for Robotic Manipulation",
+      "authors": "Henrik I. Christensen Team",
+      "pdf": "2505.04619",
+      "pdfLink": "http://arxiv.org/abs/2505.04619",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "OpenHelix: A Short Survey, Empirical Analysis, and Open-Source Dual-System VLA Model for Robotic Manipulation",
+      "authors": "Donglin Wang Team",
+      "pdf": "2505.03912",
+      "pdfLink": "http://arxiv.org/abs/2505.03912",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "AMO: Adaptive Motion Optimization for Hyper-Dexterous Humanoid Whole-Body Control",
+      "authors": "Xiaolong Wang Team",
+      "pdf": "2505.03738",
+      "pdfLink": "http://arxiv.org/abs/2505.03738",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "Meta-Optimization and Program Search using Language Models for Task and Motion Planning",
+      "authors": "Marc Toussaint Team",
+      "pdf": "2505.03725",
+      "pdfLink": "http://arxiv.org/abs/2505.03725",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "Ergodic Generative Flows",
+      "authors": "Yinchuan Li Team",
+      "pdf": "2505.03561",
+      "pdfLink": "http://arxiv.org/abs/2505.03561",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "RIFT: Closed-Loop RL Fine-Tuning for Realistic and Controllable Traffic Simulation",
+      "authors": "Sifa Zheng Team",
+      "pdf": "2505.03344",
+      "pdfLink": "http://arxiv.org/abs/2505.03344",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "The Unreasonable Effectiveness of Discrete-Time Gaussian Process Mixtures for Robot Policy Learning",
+      "authors": "Abhinav Valada Team",
+      "pdf": "2505.03296",
+      "pdfLink": "http://arxiv.org/abs/2505.03296",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-05",
+      "title": "Sim2Real Transfer for Vision-Based Grasp Verification",
+      "authors": "Markus Vincze Team",
+      "pdf": "2505.03046",
+      "pdfLink": "http://arxiv.org/abs/2505.03046",
+      "code": "link"
+    },
+    {
+      "date": "2025-05-05",
+      "title": "Zero-shot Sim2Real Transfer for Magnet-Based Tactile Sensor on Insertion Tasks",
+      "authors": "Jia Deng Team",
+      "pdf": "2505.02915",
+      "pdfLink": "http://arxiv.org/abs/2505.02915",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-05",
+      "title": "Re-purposing a modular origami manipulator into an adaptive physical computer for machine learning and robotic perception",
+      "authors": "Suyi Li Team",
+      "pdf": "2505.02744",
+      "pdfLink": "http://arxiv.org/abs/2505.02744",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-05",
+      "title": "Spatiotemporal Non-Uniformity-Aware Online Task Scheduling in Collaborative Edge Computing for Industrial Internet of Things",
+      "authors": "Bo Lei Team",
+      "pdf": "2505.02597",
+      "pdfLink": "http://arxiv.org/abs/2505.02597",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-05",
+      "title": "Automated Hybrid Reward Scheduling via Large Language Models for Robotic Skill Learning",
+      "authors": "Jianqiang Li Team",
+      "pdf": "2505.02483",
+      "pdfLink": "http://arxiv.org/abs/2505.02483",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-05",
+      "title": "MetaScenes: Towards Automated Replica Creation for Real-world 3D Scans",
+      "authors": "Siyuan Huang Team",
+      "pdf": "2505.02388",
+      "pdfLink": "http://arxiv.org/abs/2505.02388",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-04",
+      "title": "Coupled Distributional Random Expert Distillation for World Model Online Imitation Learning",
+      "authors": "Hao Su Team",
+      "pdf": "2505.02228",
+      "pdfLink": "http://arxiv.org/abs/2505.02228",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-04",
+      "title": "CrayonRobo: Object-Centric Prompt-Driven Vision-Language-Action Model for Robotic Manipulation",
+      "authors": "Hao Dong Team",
+      "pdf": "2505.02166",
+      "pdfLink": "http://arxiv.org/abs/2505.02166",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-04",
+      "title": "Interleave-VLA: Enhancing Robot Manipulation with Interleaved Image-Text Instructions",
+      "authors": "Mingyu Ding Team",
+      "pdf": "2505.02152",
+      "pdfLink": "http://arxiv.org/abs/2505.02152",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-03",
+      "title": "Act Natural! Extending Naturalistic Projection to Multimodal Behavior Scenarios",
+      "authors": "David Fridovich-Keil Team",
+      "pdf": "2505.01945",
+      "pdfLink": "http://arxiv.org/abs/2505.01945",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-07",
+      "title": "RoBridge: A Hierarchical Architecture Bridging Cognition and Execution for General Robotic Manipulation",
+      "authors": "Xiaodan Liang Team",
+      "pdf": "2505.01709",
+      "pdfLink": "http://arxiv.org/abs/2505.01709",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-02",
+      "title": "FalconWing: An Open-Source Platform for Ultra-Light Fixed-Wing Aircraft Research",
+      "authors": "Sayan Mitra Team",
+      "pdf": "2505.01383",
+      "pdfLink": "http://arxiv.org/abs/2505.01383",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-06",
+      "title": "Robotic Visual Instruction",
+      "authors": "Xianzheng Ma Team",
+      "pdf": "2505.00693",
+      "pdfLink": "http://arxiv.org/abs/2505.00693",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-01",
+      "title": "Towards Autonomous Micromobility through Scalable Urban Simulation",
+      "authors": "Bolei Zhou Team",
+      "pdf": "2505.00690",
+      "pdfLink": "http://arxiv.org/abs/2505.00690",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-01",
+      "title": "DeCo: Task Decomposition and Skill Composition for Zero-Shot Generalization in Long-Horizon 3D Manipulation",
+      "authors": "Yang Gao Team",
+      "pdf": "2505.00527",
+      "pdfLink": "http://arxiv.org/abs/2505.00527",
+      "code": "null"
+    },
+    {
+      "date": "2025-05-01",
+      "title": "Optimal Interactive Learning on the Job via Facility Location Planning",
+      "authors": "George Konidaris Team",
+      "pdf": "2505.00490",
+      "pdfLink": "http://arxiv.org/abs/2505.00490",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-30",
+      "title": "LLM-based Interactive Imitation Learning for Robotic Manipulation",
+      "authors": "Stefan Wermter Team",
+      "pdf": "2504.21769",
+      "pdfLink": "http://arxiv.org/abs/2504.21769",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-30",
+      "title": "RoboGround: Robotic Manipulation with Grounded Vision-Language Priors",
+      "authors": "Zhou Zhao Team",
+      "pdf": "2504.21530",
+      "pdfLink": "http://arxiv.org/abs/2504.21530",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-30",
+      "title": "Provably-Safe, Online System Identification",
+      "authors": "Ram Vasudevan Team",
+      "pdf": "2504.21486",
+      "pdfLink": "http://arxiv.org/abs/2504.21486",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-29",
+      "title": "TesserAct: Learning 4D Embodied World Models",
+      "authors": "Chuang Gan Team",
+      "pdf": "2504.20995",
+      "pdfLink": "http://arxiv.org/abs/2504.20995",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-29",
+      "title": "XPG-RL: Reinforcement Learning with Explainable Priority Guidance for Efficiency-Boosted Mechanical Search",
+      "authors": "Elena Shrestha Team",
+      "pdf": "2504.20969",
+      "pdfLink": "http://arxiv.org/abs/2504.20969",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-29",
+      "title": "PRISM: Projection-based Reward Integration for Scene-Aware Real-to-Sim-to-Real Transfer with Few Demonstrations",
+      "authors": "Xuguang Lan Team",
+      "pdf": "2504.20520",
+      "pdfLink": "http://arxiv.org/abs/2504.20520",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-29",
+      "title": "SPARK Hand: Scooping-Pinching Adaptive Robotic Hand with Kempe Mechanism for Vertical Passive Grasp in Environmental Constraints",
+      "authors": "Wenzeng Zhang Team",
+      "pdf": "2504.20506",
+      "pdfLink": "http://arxiv.org/abs/2504.20506",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-28",
+      "title": "UTTG_ A Universal Teleoperation Approach via Online Trajectory Generation",
+      "authors": "Hesheng Wang Team",
+      "pdf": "2504.19736",
+      "pdfLink": "http://arxiv.org/abs/2504.19736",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-28",
+      "title": "GPA-RAM: Grasp-Pretraining Augmented Robotic Attention Mamba for Spatial Task Learning",
+      "authors": "Mengyuan Liu Team",
+      "pdf": "2504.19683",
+      "pdfLink": "http://arxiv.org/abs/2504.19683",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-27",
+      "title": "PolyTouch: A Robust Multi-Modal Tactile Sensor for Contact-rich Manipulation Using Tactile-Diffusion Policies",
+      "authors": "Edward Adelson Team",
+      "pdf": "2504.19341",
+      "pdfLink": "http://arxiv.org/abs/2504.19341",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-29",
+      "title": "Learned Perceptive Forward Dynamics Model for Safe and Platform-aware Robotic Navigation",
+      "authors": "Marco Hutter Team",
+      "pdf": "2504.19322",
+      "pdfLink": "http://arxiv.org/abs/2504.19322",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-27",
+      "title": "Learning to Drive from a World Model",
+      "authors": "Yassine Yousfi Team",
+      "pdf": "2504.19077",
+      "pdfLink": "http://arxiv.org/abs/2504.19077",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-26",
+      "title": "RoboVerse: Towards a Unified Platform, Dataset and Benchmark for Scalable and Generalizable Robot Learning",
+      "authors": "Pieter Abbeel Team",
+      "pdf": "2504.18904",
+      "pdfLink": "http://arxiv.org/abs/2504.18904",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-26",
+      "title": "Imitation Learning for Autonomous Driving: Insights from Real-World Testing",
+      "authors": "Tufan Kumbasar Team",
+      "pdf": "2504.18847",
+      "pdfLink": "http://arxiv.org/abs/2504.18847",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-26",
+      "title": "Hierarchical Reinforcement Learning in Multi-Goal Spatial Navigation with Autonomous Mobile Robots",
+      "authors": "Alfredo Weitzenfeld Team",
+      "pdf": "2504.18794",
+      "pdfLink": "http://arxiv.org/abs/2504.18794",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-26",
+      "title": "STDArm: Transferring Visuomotor Policies From Static Data Training to Dynamic Robot Manipulation",
+      "authors": "Yanyong Zhang Team",
+      "pdf": "2504.18792",
+      "pdfLink": "http://arxiv.org/abs/2504.18792",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-25",
+      "title": "Generalization Capability for Imitation Learning",
+      "authors": "Yixiao Wang Team",
+      "pdf": "2504.18538",
+      "pdfLink": "http://arxiv.org/abs/2504.18538",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-25",
+      "title": "Instrumentation for Better Demonstrations: A Case Study",
+      "authors": "Francis wyffels Team",
+      "pdf": "2504.18481",
+      "pdfLink": "http://arxiv.org/abs/2504.18481",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-25",
+      "title": "Action Flow Matching for Continual Robot Learning",
+      "authors": "Lantao Liu Team",
+      "pdf": "2504.18471",
+      "pdfLink": "http://arxiv.org/abs/2504.18471",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-25",
+      "title": "Design and Evaluation of a UGV-Based Robotic Platform for Precision Soil Moisture Remote Sensing",
+      "authors": "George Nikolakopoulos Team",
+      "pdf": "2504.18284",
+      "pdfLink": "http://arxiv.org/abs/2504.18284",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-28",
+      "title": "Implementation Analysis of Collaborative Robot Digital Twins in Physics Engines",
+      "authors": "Hans D. Schotten Team",
+      "pdf": "2504.18200",
+      "pdfLink": "http://arxiv.org/abs/2504.18200",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-25",
+      "title": "Offline Learning of Controllable Diverse Behaviors",
+      "authors": "Ludovic Denoyer Team",
+      "pdf": "2504.18160",
+      "pdfLink": "http://arxiv.org/abs/2504.18160",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "CIVIL: Causal and Intuitive Visual Imitation Learning",
+      "authors": "Dylan P. Losey Team",
+      "pdf": "2504.17959",
+      "pdfLink": "http://arxiv.org/abs/2504.17959",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "Collaborating Action by Action: A Multi-agent LLM Framework for Embodied Reasoning",
+      "authors": "Prithviraj Ammanabrolu Team",
+      "pdf": "2504.17950",
+      "pdfLink": "http://arxiv.org/abs/2504.17950",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "Learning Attentive Neural Processes for Planning with Pushing Actions",
+      "authors": "Nicholas Roy Team",
+      "pdf": "2504.17924",
+      "pdfLink": "http://arxiv.org/abs/2504.17924",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "CaRL: Learning Scalable Planning Policies with Simple Rewards",
+      "authors": "Andreas Geiger Team",
+      "pdf": "2504.17838",
+      "pdfLink": "http://arxiv.org/abs/2504.17838",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-23",
+      "title": "Learning Underwater Active Perception in Simulation",
+      "authors": "Donald G. Dansereau Team",
+      "pdf": "2504.17817",
+      "pdfLink": "http://arxiv.org/abs/2504.17817",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "Gripper Keypose and Object Pointflow as Interfaces for Bimanual Robotic Manipulation",
+      "authors": "Jiangmiao Pang Team",
+      "pdf": "2504.17784",
+      "pdfLink": "http://arxiv.org/abs/2504.17784",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "Integrating Learning-Based Manipulation and Physics-Based Locomotion for Whole-Body Badminton Robot Control",
+      "authors": "Dong Xuan Team",
+      "pdf": "2504.17771",
+      "pdfLink": "http://arxiv.org/abs/2504.17771",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "Robotic Grinding Skills Learning Based on Geodesic Length Dynamic Motion Primitives",
+      "authors": "Han Ding Team",
+      "pdf": "2504.17216",
+      "pdfLink": "http://arxiv.org/abs/2504.17216",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-23",
+      "title": "Geometric Formulation of Unified Force-Impedance Control on SE(3) for Robotic Manipulators",
+      "authors": "Roberto Horowitz Team",
+      "pdf": "2504.17080",
+      "pdfLink": "http://arxiv.org/abs/2504.17080",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-23",
+      "title": "A Systematic Approach to Design Real-World Human-in-the-Loop Deep Reinforcement Learning: Salient Features, Challenges and Trade-offs",
+      "authors": "Younes Zerouali Team",
+      "pdf": "2504.17006",
+      "pdfLink": "http://arxiv.org/abs/2504.17006",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-23",
+      "title": "Latent Diffusion Planning for Imitation Learning",
+      "authors": "Chelsea Finn Team",
+      "pdf": "2504.16925",
+      "pdfLink": "http://arxiv.org/abs/2504.16925",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-23",
+      "title": "MOSAIC: A Skill-Centric Algorithmic Framework for Long-Horizon Manipulation Planning",
+      "authors": "Maxim Likhachev Team",
+      "pdf": "2504.16738",
+      "pdfLink": "http://arxiv.org/abs/2504.16738",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-23",
+      "title": "ManipDreamer: Boosting Robotic Manipulation World Model with Action Tree and Visual Guidance",
+      "authors": "Shanghang Zhang Team",
+      "pdf": "2504.16464",
+      "pdfLink": "http://arxiv.org/abs/2504.16464",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-22",
+      "title": "Mass-Adaptive Admittance Control for Robotic Manipulators",
+      "authors": "Logan E. Beaver Team",
+      "pdf": "2504.16224",
+      "pdfLink": "http://arxiv.org/abs/2504.16224",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-22",
+      "title": "$π_{0.5}$ : a Vision-Language-Action Model with Open-World Generalization",
+      "authors": "Ury Zhilinsky Team",
+      "pdf": "2504.16054",
+      "pdfLink": "http://arxiv.org/abs/2504.16054",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-22",
+      "title": "SPECI: Skill Prompts based Hierarchical Continual Imitation Learning for Robot Manipulation",
+      "authors": "Xiangli Nie Team",
+      "pdf": "2504.15561",
+      "pdfLink": "http://arxiv.org/abs/2504.15561",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-22",
+      "title": "VibeCheck: Using Active Acoustic Tactile Sensing for Contact-Rich Manipulation",
+      "authors": "Matei Ciocarlie Team",
+      "pdf": "2504.15535",
+      "pdfLink": "http://arxiv.org/abs/2504.15535",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-22",
+      "title": "Few-Shot Vision-Language Action-Incremental Policy Learning",
+      "authors": "Weili Guan Team",
+      "pdf": "2504.15517",
+      "pdfLink": "http://arxiv.org/abs/2504.15517",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-21",
+      "title": "LAPP: Large Language Model Feedback for Preference-Driven Reinforcement Learning",
+      "authors": "Boyuan Chen Team",
+      "pdf": "2504.15472",
+      "pdfLink": "http://arxiv.org/abs/2504.15472",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-23",
+      "title": "Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions",
+      "authors": "Peng Qi Team",
+      "pdf": "2504.15327",
+      "pdfLink": "http://arxiv.org/abs/2504.15327",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-21",
+      "title": "Immersive Teleoperation Framework for Locomanipulation Tasks",
+      "authors": "Dimitrios Kanoulas Team",
+      "pdf": "2504.15229",
+      "pdfLink": "http://arxiv.org/abs/2504.15229",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-21",
+      "title": "A Genetic Fuzzy-Enabled Framework on Robotic Manipulation for In-Space Servicing",
+      "authors": "Kelly Cohen Team",
+      "pdf": "2504.15226",
+      "pdfLink": "http://arxiv.org/abs/2504.15226",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-21",
+      "title": "A General Infrastructure and Workflow for Quadrotor Deep Reinforcement Learning and Reality Deployment",
+      "authors": "Huaping Liu Team",
+      "pdf": "2504.15129",
+      "pdfLink": "http://arxiv.org/abs/2504.15129",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-21",
+      "title": "SuFIA-BC: Generating High Quality Demonstration Data for Visuomotor Policy Learning in Surgical Subtasks",
+      "authors": "Animesh Garg Team",
+      "pdf": "2504.14857",
+      "pdfLink": "http://arxiv.org/abs/2504.14857",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-20",
+      "title": "Exposing the Copycat Problem of Imitation-based Planner: A Novel Closed-Loop Simulator, Causal Benchmark and Joint IL-RL Baseline",
+      "authors": "Hongsheng Li Team",
+      "pdf": "2504.14709",
+      "pdfLink": "http://arxiv.org/abs/2504.14709",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-24",
+      "title": "Latent Representations for Visual Proprioception in Inexpensive Robots",
+      "authors": "Ladislau Bölöni Team",
+      "pdf": "2504.14634",
+      "pdfLink": "http://arxiv.org/abs/2504.14634",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-18",
+      "title": "DiffOG: Differentiable Policy Trajectory Optimization with Generalizability",
+      "authors": "Yu She Team",
+      "pdf": "2504.13807",
+      "pdfLink": "http://arxiv.org/abs/2504.13807",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-18",
+      "title": "Imitation Learning with Precisely Labeled Human Demonstrations",
+      "authors": "Yilong Song Team",
+      "pdf": "2504.13803",
+      "pdfLink": "http://arxiv.org/abs/2504.13803",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-21",
+      "title": "SLAM&Render: A Benchmark for the Intersection Between Neural Rendering, Gaussian Splatting and SLAM",
+      "authors": "Javier Civera Team",
+      "pdf": "2504.13713",
+      "pdfLink": "http://arxiv.org/abs/2504.13713",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-18",
+      "title": "Self-Mixing Laser Interferometry: In Search of an Ambient Noise-Resilient Alternative to Acoustic Sensing",
+      "authors": "Francis wyffels Team",
+      "pdf": "2504.13711",
+      "pdfLink": "http://arxiv.org/abs/2504.13711",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-18",
+      "title": "On the Importance of Tactile Sensing for Imitation Learning: A Case Study on Robotic Match Lighting",
+      "authors": "Jan Peters Team",
+      "pdf": "2504.13618",
+      "pdfLink": "http://arxiv.org/abs/2504.13618",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-18",
+      "title": "A Model-Based Approach to Imitation Learning through Multi-Step Predictions",
+      "authors": "Na Li Team",
+      "pdf": "2504.13413",
+      "pdfLink": "http://arxiv.org/abs/2504.13413",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins",
+      "authors": "Ping Luo Team",
+      "pdf": "2504.13059",
+      "pdfLink": "http://arxiv.org/abs/2504.13059",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "Adaptive Task Space Non-Singular Terminal Super-Twisting Sliding Mode Control of a 7-DOF Robotic Manipulator",
+      "authors": "E. Witrant Team",
+      "pdf": "2504.13056",
+      "pdfLink": "http://arxiv.org/abs/2504.13056",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "Krysalis Hand: A Lightweight, High-Payload, 18-DoF Anthropomorphic End-Effector for Robotic Learning and Dexterous Manipulation",
+      "authors": "Iman Soltani Team",
+      "pdf": "2504.12967",
+      "pdfLink": "http://arxiv.org/abs/2504.12967",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "TSGS: Improving Gaussian Splatting for Transparent Surface Reconstruction via Normal and De-lighting Priors",
+      "authors": "Yi Yang Team",
+      "pdf": "2504.12799",
+      "pdfLink": "http://arxiv.org/abs/2504.12799",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "Trajectory Adaptation using Large Language Models",
+      "authors": "Ravi Prakash Team",
+      "pdf": "2504.12755",
+      "pdfLink": "http://arxiv.org/abs/2504.12755",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "Embodied Neuromorphic Control Applied on a 7-DOF Robotic Manipulator",
+      "authors": "Lei Wang Team",
+      "pdf": "2504.12702",
+      "pdfLink": "http://arxiv.org/abs/2504.12702",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-21",
+      "title": "A0: An Affordance-Aware Hierarchical Model for General Robotic Manipulation",
+      "authors": "Xiaodan Liang Team",
+      "pdf": "2504.12636",
+      "pdfLink": "http://arxiv.org/abs/2504.12636",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "Crossing the Human-Robot Embodiment Gap with Sim-to-Real RL using One Human Demonstration",
+      "authors": "Jeannette Bohg Team",
+      "pdf": "2504.12609",
+      "pdfLink": "http://arxiv.org/abs/2504.12609",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-16",
+      "title": "Adapting a World Model for Trajectory Following in a 3D Game",
+      "authors": "Raluca Georgescu Team",
+      "pdf": "2504.12299",
+      "pdfLink": "http://arxiv.org/abs/2504.12299",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-16",
+      "title": "Towards Forceful Robotic Foundation Models: a Literature Survey",
+      "authors": "Nikolaus Correll Team",
+      "pdf": "2504.11827",
+      "pdfLink": "http://arxiv.org/abs/2504.11827",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-14",
+      "title": "Toward Aligning Human and Robot Actions via Multi-Modal Demonstration Learning",
+      "authors": "Fei Liu Team",
+      "pdf": "2504.11493",
+      "pdfLink": "http://arxiv.org/abs/2504.11493",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-15",
+      "title": "Next-Future: Sample-Efficient Policy Learning for Robotic-Arm Tasks",
+      "authors": "Suryansh Kumar Team",
+      "pdf": "2504.11247",
+      "pdfLink": "http://arxiv.org/abs/2504.11247",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-17",
+      "title": "CAP-Net: A Unified Network for 6D Pose and Size Estimation of Categorical Articulated Parts from a Single RGB-D Image",
+      "authors": "Yi Zhu Team",
+      "pdf": "2504.11230",
+      "pdfLink": "http://arxiv.org/abs/2504.11230",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-15",
+      "title": "Superfast Configuration-Space Convex Set Computation on GPUs for Online Motion Planning",
+      "authors": "Daniela Rus Team",
+      "pdf": "2504.10783",
+      "pdfLink": "http://arxiv.org/abs/2504.10783",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-14",
+      "title": "Improving In-Context Learning with Reasoning Distillation",
+      "authors": "Xiang Gao Team",
+      "pdf": "2504.10647",
+      "pdfLink": "http://arxiv.org/abs/2504.10647",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-14",
+      "title": "Flying Hand: End-Effector-Centric Framework for Versatile Aerial Manipulation Teleoperation and Policy Learning",
+      "authors": "Guanya Shi Team",
+      "pdf": "2504.10334",
+      "pdfLink": "http://arxiv.org/abs/2504.10334",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-14",
+      "title": "Look-to-Touch: A Vision-Enhanced Proximity and Tactile Sensor for Distance and Geometry Perception in Robotic Manipulation",
+      "authors": "Guoying Gu Team",
+      "pdf": "2504.10280",
+      "pdfLink": "http://arxiv.org/abs/2504.10280",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-14",
+      "title": "Prior Does Matter: Visual Navigation via Denoising Diffusion Bridge Models",
+      "authors": "Hui Cheng Team",
+      "pdf": "2504.10041",
+      "pdfLink": "http://arxiv.org/abs/2504.10041",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-14",
+      "title": "Efficient Task-specific Conditional Diffusion Policies: Shortcut Model Acceleration and SO(3) Optimization",
+      "authors": "Wei Sui Team",
+      "pdf": "2504.09927",
+      "pdfLink": "http://arxiv.org/abs/2504.09927",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-12",
+      "title": "Compliant Explicit Reference Governor for Contact Friendly Robotic Manipulators",
+      "authors": "Marco M. Nicotra Team",
+      "pdf": "2504.09188",
+      "pdfLink": "http://arxiv.org/abs/2504.09188",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-11",
+      "title": "BiFlex: A Passive Bimodal Stiffness Flexible Wrist for Manipulation in Unstructured Environments",
+      "authors": "Roberto Martín-Martín Team",
+      "pdf": "2504.08706",
+      "pdfLink": "http://arxiv.org/abs/2504.08706",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-11",
+      "title": "Diffusion Models for Robotic Manipulation: A Survey",
+      "authors": "Rania Rayyes Team",
+      "pdf": "2504.08438",
+      "pdfLink": "http://arxiv.org/abs/2504.08438",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-10",
+      "title": "Echo: An Open-Source, Low-Cost Teleoperation System with Force Feedback for Dataset Collection in Robot Learning",
+      "authors": "Dzmitry Tsetserukou Team",
+      "pdf": "2504.07939",
+      "pdfLink": "http://arxiv.org/abs/2504.07939",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-10",
+      "title": "TOCALib: Optimal control library with interpolation for bimanual manipulation and obstacles avoidance",
+      "authors": "Aleksandr Panov Team",
+      "pdf": "2504.07708",
+      "pdfLink": "http://arxiv.org/abs/2504.07708",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-10",
+      "title": "Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction",
+      "authors": "Hesheng Wang Team",
+      "pdf": "2504.07375",
+      "pdfLink": "http://arxiv.org/abs/2504.07375",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "Adaptive Vision-Guided Robotic Arm Control for Precision Pruning in Dynamic Orchard Environments",
+      "authors": "Manoj Karkee Team",
+      "pdf": "2504.07309",
+      "pdfLink": "http://arxiv.org/abs/2504.07309",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "AssistanceZero: Scalably Solving Assistance Games",
+      "authors": "Anca Dragan Team",
+      "pdf": "2504.07091",
+      "pdfLink": "http://arxiv.org/abs/2504.07091",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "Two by Two: Learning Multi-Task Pairwise Objects Assembly for Generalizable Robot Manipulation",
+      "authors": "Huazhe Xu Team",
+      "pdf": "2504.06961",
+      "pdfLink": "http://arxiv.org/abs/2504.06961",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "Developing Modular Grasping and Manipulation Pipeline Infrastructure to Streamline Performance Benchmarking",
+      "authors": "Holly Yanco Team",
+      "pdf": "2504.06819",
+      "pdfLink": "http://arxiv.org/abs/2504.06819",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "Interactive Expressive Motion Generation Using Dynamic Movement Primitives",
+      "authors": "Kai O. Arras Team",
+      "pdf": "2504.06735",
+      "pdfLink": "http://arxiv.org/abs/2504.06735",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "Overcoming Dynamic Environments: A Hybrid Approach to Motion Planning for Manipulators",
+      "authors": "Gavin Paul Team",
+      "pdf": "2504.06596",
+      "pdfLink": "http://arxiv.org/abs/2504.06596",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "CAFE-AD: Cross-Scenario Adaptive Feature Enhancement for Trajectory Planning in Autonomous Driving",
+      "authors": "Yanyong Zhang Team",
+      "pdf": "2504.06584",
+      "pdfLink": "http://arxiv.org/abs/2504.06584",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "OPAL: Encoding Causal Understanding of Physical Systems for Robot Learning",
+      "authors": "Tyler Fenstermaker Team",
+      "pdf": "2504.06538",
+      "pdfLink": "http://arxiv.org/abs/2504.06538",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-08",
+      "title": "ViTaMIn: Learning Contact-Rich Tasks Through Robot-Free Visuo-Tactile Manipulation Interface",
+      "authors": "Rui Chen Team",
+      "pdf": "2504.06156",
+      "pdfLink": "http://arxiv.org/abs/2504.06156",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-08",
+      "title": "MAPLE: Encoding Dexterous Robotic Manipulation Priors Learned From Egocentric Videos",
+      "authors": "Marc Pollefeys Team",
+      "pdf": "2504.06084",
+      "pdfLink": "http://arxiv.org/abs/2504.06084",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-08",
+      "title": "Learning-enhanced electronic skin for tactile sensing on deformable surface based on electrical impedance tomography",
+      "authors": "Yunjie Yang Team",
+      "pdf": "2504.05987",
+      "pdfLink": "http://arxiv.org/abs/2504.05987",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-08",
+      "title": "Stratified Expert Cloning with Adaptive Selection for User Retention in Large-Scale Recommender Systems",
+      "authors": "Yongqi Liu Team",
+      "pdf": "2504.05628",
+      "pdfLink": "http://arxiv.org/abs/2504.05628",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-08",
+      "title": "TW-CRL: Time-Weighted Contrastive Reward Learning for Efficient Inverse Reinforcement Learning",
+      "authors": "Stephen Xia Team",
+      "pdf": "2504.05585",
+      "pdfLink": "http://arxiv.org/abs/2504.05585",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-07",
+      "title": "SPARK-Remote: A Cost-Effective System for Remote Bimanual Robot Teleoperation",
+      "authors": "Karthik Desingh Team",
+      "pdf": "2504.05488",
+      "pdfLink": "http://arxiv.org/abs/2504.05488",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-07",
+      "title": "RobustDexGrasp: Robust Dexterous Grasping of General Objects from Single-view Perception",
+      "authors": "Jie Song Team",
+      "pdf": "2504.05287",
+      "pdfLink": "http://arxiv.org/abs/2504.05287",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-07",
+      "title": "Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation",
+      "authors": "Wei Zhang Team",
+      "pdf": "2504.05225",
+      "pdfLink": "http://arxiv.org/abs/2504.05225",
+      "code": "link"
+    },
+    {
+      "date": "2025-04-07",
+      "title": "Wavelet Policy: Imitation Policy Learning in Frequency Domain with Wavelet Transforms",
+      "authors": "Hongrui Zhu Team",
+      "pdf": "2504.04991",
+      "pdfLink": "http://arxiv.org/abs/2504.04991",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-07",
+      "title": "Embodied Perception for Test-time Grasping Detection Adaptation with Knowledge Infusion",
+      "authors": "Fengyu Zhou Team",
+      "pdf": "2504.04795",
+      "pdfLink": "http://arxiv.org/abs/2504.04795",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-06",
+      "title": "Tool-as-Interface: Learning Robot Policies from Human Tool Usage through Imitation Learning",
+      "authors": "Katherine Driggs-Campbell Team",
+      "pdf": "2504.04612",
+      "pdfLink": "http://arxiv.org/abs/2504.04612",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-06",
+      "title": "Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions",
+      "authors": "Katherine J. Kuchenbecker Team",
+      "pdf": "2504.04603",
+      "pdfLink": "http://arxiv.org/abs/2504.04603",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-06",
+      "title": "DexTOG: Learning Task-Oriented Dexterous Grasp with Language",
+      "authors": "Cewu Lu Team",
+      "pdf": "2504.04573",
+      "pdfLink": "http://arxiv.org/abs/2504.04573",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-06",
+      "title": "DexSinGrasp: Learning a Unified Policy for Dexterous Object Singulation and Grasping in Cluttered Environments",
+      "authors": "Lin Shao Team",
+      "pdf": "2504.04516",
+      "pdfLink": "http://arxiv.org/abs/2504.04516",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-06",
+      "title": "Human-Level Competitive Pokémon via Scalable Offline Reinforcement Learning with Transformers",
+      "authors": "Yuke Zhu Team",
+      "pdf": "2504.04395",
+      "pdfLink": "http://arxiv.org/abs/2504.04395",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-05",
+      "title": "ORCA: An Open-Source, Reliable, Cost-Effective, Anthropomorphic Robotic Hand for Uninterrupted Dexterous Task Learning",
+      "authors": "Robert K. Katzschmann Team",
+      "pdf": "2504.04259",
+      "pdfLink": "http://arxiv.org/abs/2504.04259",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-09",
+      "title": "Digital Gene: Learning about the Physical World through Analytic Concepts",
+      "authors": "Cewu Lu Team",
+      "pdf": "2504.04170",
+      "pdfLink": "http://arxiv.org/abs/2504.04170",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-04",
+      "title": "Dexterous Manipulation through Imitation Learning: A Survey",
+      "authors": "Hong Zhang Team",
+      "pdf": "2504.03515",
+      "pdfLink": "http://arxiv.org/abs/2504.03515",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-04",
+      "title": "GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction",
+      "authors": "Weiming Zhi Team",
+      "pdf": "2504.03129",
+      "pdfLink": "http://arxiv.org/abs/2504.03129",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-03",
+      "title": "Unified World Models: Coupling Video and Action Diffusion for Pretraining on Large Robotic Datasets",
+      "authors": "Abhishek Gupta Team",
+      "pdf": "2504.02792",
+      "pdfLink": "http://arxiv.org/abs/2504.02792",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-03",
+      "title": "Multimodal Fusion and Vision-Language Models: A Survey for Robot Vision",
+      "authors": "Shibiao Xu Team",
+      "pdf": "2504.02477",
+      "pdfLink": "http://arxiv.org/abs/2504.02477",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "RoboAct-CLIP: Video-Driven Pre-training of Atomic Action Understanding for Robotics",
+      "authors": "Qiang Nie Team",
+      "pdf": "2504.02069",
+      "pdfLink": "http://arxiv.org/abs/2504.02069",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "Slot-Level Robotic Placement via Visual Imitation from Single Human Video",
+      "authors": "Arsalan Mousavian Team",
+      "pdf": "2504.01959",
+      "pdfLink": "http://arxiv.org/abs/2504.01959",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "Learning with Imperfect Models: When Multi-step Prediction Mitigates Compounding Error",
+      "authors": "Nikolai Matni Team",
+      "pdf": "2504.01766",
+      "pdfLink": "http://arxiv.org/abs/2504.01766",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "TransforMerger: Transformer-based Voice-Gesture Fusion for Robust Human-Robot Communication",
+      "authors": "Karla Stepanova Team",
+      "pdf": "2504.01708",
+      "pdfLink": "http://arxiv.org/abs/2504.01708",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "8-DoFs Cable Driven Parallel Robots for Bimanual Teleportation",
+      "authors": "Josie Hughes Team",
+      "pdf": "2504.01554",
+      "pdfLink": "http://arxiv.org/abs/2504.01554",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "Bi-LAT: Bilateral Control-Based Imitation Learning via Natural Language and Action Chunking with Transformers",
+      "authors": "Yuki Uranishi Team",
+      "pdf": "2504.01301",
+      "pdfLink": "http://arxiv.org/abs/2504.01301",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "The Social Life of Industrial Arms: How Arousal and Attention Shape Human-Robot Interaction",
+      "authors": "Matthew K. X. J Pan Team",
+      "pdf": "2504.01260",
+      "pdfLink": "http://arxiv.org/abs/2504.01260",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-01",
+      "title": "Energy Weighted Learning Progress Guided Interleaved Multi-Task Learning",
+      "authors": "Erhan Oztop Team",
+      "pdf": "2504.00707",
+      "pdfLink": "http://arxiv.org/abs/2504.00707",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-01",
+      "title": "Learning Bipedal Locomotion on Gear-Driven Humanoid Robot Using Foot-Mounted IMUs",
+      "authors": "Masaya Kinoshita Team",
+      "pdf": "2504.00614",
+      "pdfLink": "http://arxiv.org/abs/2504.00614",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-01",
+      "title": "Think Small, Act Big: Primitive Prompt Learning for Lifelong Robot Manipulation",
+      "authors": "Dong Wang Team",
+      "pdf": "2504.00420",
+      "pdfLink": "http://arxiv.org/abs/2504.00420",
+      "code": "null"
+    },
+    {
+      "date": "2025-03-31",
+      "title": "CBIL: Collective Behavior Imitation Learning for Fish from Real Videos",
+      "authors": "Taku Komura Team",
+      "pdf": "2504.00234",
+      "pdfLink": "http://arxiv.org/abs/2504.00234",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "Sim-and-Real Co-Training: A Simple Recipe for Vision-Based Robotic Manipulation",
+      "authors": "Yuke Zhu Team",
+      "pdf": "2503.24361",
+      "pdfLink": "http://arxiv.org/abs/2503.24361",
+      "code": "null"
+    },
+    {
+      "date": "2025-04-02",
+      "title": "AutoEval: Autonomous Evaluation of Generalist Robot Manipulation Policies in the Real World",
+      "authors": "Sergey Levine Team",
+      "pdf": "2503.24278",
+      "pdfLink": "http://arxiv.org/abs/2503.24278",
+      "code": "link"
+    },
+    {
+      "date": "2025-03-31",
+      "title": "HACTS: a Human-As-Copilot Teleoperation System for Robot Learning",
+      "authors": "Jian Tang Team",
+      "pdf": "2503.24070",
+      "pdfLink": "http://arxiv.org/abs/2503.24070",
+      "code": "null"
+    },
+    {
+      "date": "2025-03-31",
+      "title": "Learning 3D-Gaussian Simulators from RGB Videos",
+      "authors": "Georg Martius Team",
+      "pdf": "2503.24009",
+      "pdfLink": "http://arxiv.org/abs/2503.24009",
+      "code": "null"
+    },
+    {
+      "date": "2025-03-31",
+      "title": "ZeroMimic: Distilling Robotic Manipulation Skills from Web Videos",
+      "authors": "Dinesh Jayaraman Team",
+      "pdf": "2503.23877",
+      "pdfLink": "http://arxiv.org/abs/2503.23877",
+      "code": "link"
+    },
+    {
+      "date": "2025-03-31",
+      "title": "Disambiguate Gripper State in Grasp-Based Tasks: Pseudo-Tactile as Feedback Enables Pure Simulation Learning",
+      "authors": "Yue Wang Team",
+      "pdf": "2503.23835",
+      "pdfLink": "http://arxiv.org/abs/2503.23835",
+      "code": "null"
+    },
+    {
+      "date": "2025-03-30",
+      "title": "Can Visuo-motor Policies Benefit from Random Exploration Data? A Case Study on Stacking",
+      "authors": "Florian T. Pokorny Team",
+      "pdf": "2503.23571",
+      "pdfLink": "http://arxiv.org/abs/2503.23571",
+      "code": "null"
+    }
+  ]
+}

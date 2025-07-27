@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Robotics arXiv Daily</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 30px;
+    }
+    input[type="text"] {
+      width: 300px;
+      padding: 6px;
+      margin-right: 10px;
+    }
+    button {
+      padding: 6px 12px;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+    }
+    th, td {
+      text-align: left;
+      padding: 8px;
+      border-bottom: 1px solid #ddd;
+    }
+    .pagination {
+      margin-top: 20px;
+    }
+    .pagination button {
+      margin: 0 5px;
+    }
+  </style>
+  <!-- NProgress -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.css" />
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/nprogress/0.2.0/nprogress.min.js"></script>
+</head>
+<body>
+  <h1>Robotics arXiv Daily</h1>
+  <input type="text" id="searchInput" placeholder="Search title...">
+  <button onclick="search()">Search</button>
+  <button onclick="reset()">Reset</button>
+
+  <div class="pagination" id="paginationControls"></div>
+
+  <table id="resultsTable">
+    <thead>
+      <tr>
+        <th>Publish Date</th>
+        <th>Title</th>
+        <th>Authors</th>
+        <th>PDF</th>
+        <th>Code</th>
+      </tr>
+    </thead>
+    <tbody></tbody>
+  </table>
+
+  <script>
+    let papersData = [];
+    let currentPage = 1;
+    const resultsPerPage = 20;
+    let filteredData = [];
+
+    function fetchData() {
+      NProgress.start();
+      fetch('robotics_arxiv_daily.json')
+        .then(res => res.json())
+        .then(data => {
+          papersData = data.papers || [];
+          filteredData = papersData;
+          renderTable();
+          NProgress.done();
+        })
+        .catch(err => {
+          console.error("Error loading JSON:", err);
+          NProgress.done();
+        });
+    }
+
+    function renderTable() {
+      const tbody = document.querySelector("#resultsTable tbody");
+      tbody.innerHTML = "";
+
+      const start = (currentPage - 1) * resultsPerPage;
+      const end = start + resultsPerPage;
+      const items = filteredData.slice(start, end);
+
+      items.forEach(paper => {
+        const tr = document.createElement("tr");
+        tr.innerHTML = `
+          <td>${paper.date}</td>
+          <td>${paper.title}</td>
+          <td>${paper.authors}</td>
+          <td><a href="${paper.pdfLink}" target="_blank">${paper.pdf}</a></td>
+          <td>${paper.code === "null" ? "" : `<a href="${paper.code}" target="_blank">Code</a>`}</td>
+        `;
+        tbody.appendChild(tr);
+      });
+
+      renderPagination();
+    }
+
+    function renderPagination() {
+      const totalPages = Math.ceil(filteredData.length / resultsPerPage);
+      const controls = document.getElementById("paginationControls");
+      controls.innerHTML = `
+        Page ${currentPage} of ${totalPages}
+        <button onclick="prevPage()" ${currentPage === 1 ? "disabled" : ""}>Previous</button>
+        <button onclick="nextPage()" ${currentPage === totalPages ? "disabled" : ""}>Next</button>
+      `;
+    }
+
+    function search() {
+      const keyword = document.getElementById("searchInput").value.trim().toLowerCase();
+      if (!keyword) return reset();
+
+      filteredData = papersData.filter(paper =>
+        paper.title.toLowerCase().includes(keyword)
+      );
+      currentPage = 1;
+      renderTable();
+    }
+
+    function reset() {
+      document.getElementById("searchInput").value = "";
+      filteredData = papersData;
+      currentPage = 1;
+      renderTable();
+    }
+
+    function nextPage() {
+      currentPage++;
+      renderTable();
+    }
+
+    function prevPage() {
+      currentPage--;
+      renderTable();
+    }
+
+    document.getElementById("searchInput").addEventListener("keydown", e => {
+      if (e.key === "Enter") search();
+    });
+
+    fetchData();
+  </script>
+</body>
+</html>
