@@ -1,6 +1,166 @@
 {
   "papers": [
     {
+      "date": "2025-08-01",
+      "title": "On-Device Diffusion Transformer Policy for Efficient Robot Manipulation",
+      "authors": "Dong Xu Team",
+      "pdf": "2508.00697",
+      "pdfLink": "http://arxiv.org/abs/2508.00697",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-01",
+      "title": "HannesImitation: Grasping with the Hannes Prosthetic Hand via Imitation Learning",
+      "authors": "Lorenzo Natale Team",
+      "pdf": "2508.00491",
+      "pdfLink": "http://arxiv.org/abs/2508.00491",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-01",
+      "title": "Energy Efficient Trajectory Control and Resource Allocation in Multi-UAV-assisted MEC via Deep Reinforcement Learning",
+      "authors": "Dusit Niyato Team",
+      "pdf": "2508.00261",
+      "pdfLink": "http://arxiv.org/abs/2508.00261",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-31",
+      "title": "RAGNet: Large-scale Reasoning-based Affordance Segmentation Benchmark towards General Grasping",
+      "authors": "Jianbing Shen Team",
+      "pdf": "2507.23734",
+      "pdfLink": "http://arxiv.org/abs/2507.23734",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-31",
+      "title": "villa-X: Enhancing Latent Action Modeling in Vision-Language-Action Models",
+      "authors": "Jiang Bian Team",
+      "pdf": "2507.23682",
+      "pdfLink": "http://arxiv.org/abs/2507.23682",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-01",
+      "title": "H-RDT: Human Manipulation Enhanced Bimanual Robotic Manipulation",
+      "authors": "Jun Zhu Team",
+      "pdf": "2507.23523",
+      "pdfLink": "http://arxiv.org/abs/2507.23523",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-31",
+      "title": "Policy Learning from Large Vision-Language Model Feedback without Reward Modeling",
+      "authors": "Chang D. Yoo Team",
+      "pdf": "2507.23391",
+      "pdfLink": "http://arxiv.org/abs/2507.23391",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-30",
+      "title": "In-between Motion Generation Based Multi-Style Quadruped Robot Locomotion",
+      "authors": "Peng Lu Team",
+      "pdf": "2507.23053",
+      "pdfLink": "http://arxiv.org/abs/2507.23053",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-30",
+      "title": "Improving Generalization Ability of Robotic Imitation Learning by Resolving Causal Confusion in Observations",
+      "authors": "Brendan Tidd Team",
+      "pdf": "2507.22380",
+      "pdfLink": "http://arxiv.org/abs/2507.22380",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "RL from Teacher-Model Refinement: Gradual Imitation Learning for Machine Translation",
+      "authors": "Pengcheng He Team",
+      "pdf": "2507.22219",
+      "pdfLink": "http://arxiv.org/abs/2507.22219",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "A Nonlinear MPC Framework for Loco-Manipulation of Quadrupedal Robots with Non-Negligible Manipulator Dynamics",
+      "authors": "Kaveh Akbari Hamed Team",
+      "pdf": "2507.22042",
+      "pdfLink": "http://arxiv.org/abs/2507.22042",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "From Seeing to Experiencing: Scaling Navigation Foundation Models with Reinforcement Learning",
+      "authors": "Bolei Zhou Team",
+      "pdf": "2507.22028",
+      "pdfLink": "http://arxiv.org/abs/2507.22028",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "DISCOVERSE: Efficient Robot Simulation in Complex High-Fidelity Environments",
+      "authors": "Guyue Zhou Team",
+      "pdf": "2507.21981",
+      "pdfLink": "http://arxiv.org/abs/2507.21981",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "MoDeSuite: Robot Learning Task Suite for Benchmarking Mobile Manipulation with Deformable Objects",
+      "authors": "Joni Pajarinen Team",
+      "pdf": "2507.21796",
+      "pdfLink": "http://arxiv.org/abs/2507.21796",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "Pretraining a Unified PDDL Domain from Real-World Demonstrations for Generalizable Robot Task Planning",
+      "authors": "Panpan Cai Team",
+      "pdf": "2507.21545",
+      "pdfLink": "http://arxiv.org/abs/2507.21545",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "Model Predictive Adversarial Imitation Learning for Planning from Observation",
+      "authors": "Byron Boots Team",
+      "pdf": "2507.21533",
+      "pdfLink": "http://arxiv.org/abs/2507.21533",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-29",
+      "title": "Retrieve-Augmented Generation for Speeding up Diffusion Policy without Additional Training",
+      "authors": "Yutaka Matsuo Team",
+      "pdf": "2507.21452",
+      "pdfLink": "http://arxiv.org/abs/2507.21452",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-28",
+      "title": "Fluidically Innervated Lattices Make Versatile and Durable Tactile Sensors",
+      "authors": "Daniela Rus Team",
+      "pdf": "2507.21225",
+      "pdfLink": "http://arxiv.org/abs/2507.21225",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-28",
+      "title": "FMimic: Foundation Models are Fine-grained Action Learners from Human Videos",
+      "authors": "Yufeng Yue Team",
+      "pdf": "2507.20622",
+      "pdfLink": "http://arxiv.org/abs/2507.20622",
+      "code": "null"
+    },
+    {
+      "date": "2025-07-28",
+      "title": "Learning Physical Interaction Skills from Human Demonstrations",
+      "authors": "Kwonjoon Lee Team",
+      "pdf": "2507.20445",
+      "pdfLink": "http://arxiv.org/abs/2507.20445",
+      "code": "null"
+    },
+    {
       "date": "2025-07-23",
       "title": "ERMV: Editing 4D Robotic Multi-view images to enhance embodied agents",
       "authors": "Hesheng Wang Team",
