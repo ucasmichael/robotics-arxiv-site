@@ -1,6 +1,166 @@
 {
   "papers": [
     {
+      "date": "2025-08-04",
+      "title": "Manip4Care: Robotic Manipulation of Human Limbs for Solving Assistive Tasks",
+      "authors": "Ahmed H. Qureshi Team",
+      "pdf": "2508.02649",
+      "pdfLink": "http://arxiv.org/abs/2508.02649",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "D2PPO: Diffusion Policy Policy Optimization with Dispersive Loss",
+      "authors": "Haitao Wang Team",
+      "pdf": "2508.02644",
+      "pdfLink": "http://arxiv.org/abs/2508.02644",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "HyCodePolicy: Hybrid Language Controllers for Multimodal Monitoring and Decision in Embodied Agents",
+      "authors": "Yao Mu Team",
+      "pdf": "2508.02629",
+      "pdfLink": "http://arxiv.org/abs/2508.02629",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "Vision-based Navigation of Unmanned Aerial Vehicles in Orchards: An Imitation Learning Approach",
+      "authors": "Zhaodan Kong Team",
+      "pdf": "2508.02617",
+      "pdfLink": "http://arxiv.org/abs/2508.02617",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "Periodic robust robotic rock chop via virtual model control",
+      "authors": "Fulvio Forni Team",
+      "pdf": "2508.02604",
+      "pdfLink": "http://arxiv.org/abs/2508.02604",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "Multi-Class Human/Object Detection on Robot Manipulators using Proprioceptive Sensing",
+      "authors": "Hans Wernher van de Venn Team",
+      "pdf": "2508.02425",
+      "pdfLink": "http://arxiv.org/abs/2508.02425",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "Improving Generalization of Language-Conditioned Robot Manipulation",
+      "authors": "Andrea Cavallaro Team",
+      "pdf": "2508.02405",
+      "pdfLink": "http://arxiv.org/abs/2508.02405",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "CO-RFT: Efficient Fine-Tuning of Vision-Language-Action Models through Chunked Offline Reinforcement Learning",
+      "authors": "Chunhe Xia Team",
+      "pdf": "2508.02219",
+      "pdfLink": "http://arxiv.org/abs/2508.02219",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "FedVLA: Federated Vision-Language-Action Learning with Dual Gating Mixture-of-Experts for Robotic Manipulation",
+      "authors": "Xiaodong Wang Team",
+      "pdf": "2508.02190",
+      "pdfLink": "http://arxiv.org/abs/2508.02190",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "ScrewSplat: An End-to-End Method for Articulated Object Recognition",
+      "authors": "Frank C. Park Team",
+      "pdf": "2508.02146",
+      "pdfLink": "http://arxiv.org/abs/2508.02146",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "“Stack It Up!”: 3D Stable Structure Generation from 2D Hand-drawn Sketch",
+      "authors": "David Hsu Team",
+      "pdf": "2508.02093",
+      "pdfLink": "http://arxiv.org/abs/2508.02093",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-04",
+      "title": "RICL: Adding In-Context Adaptability to Pre-Trained Vision-Language-Action Models",
+      "authors": "Insup Lee Team",
+      "pdf": "2508.02062",
+      "pdfLink": "http://arxiv.org/abs/2508.02062",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-03",
+      "title": "ROVER: Recursive Reasoning Over Videos with Vision-Language Models for Embodied Tasks",
+      "authors": "James Glass Team",
+      "pdf": "2508.01943",
+      "pdfLink": "http://arxiv.org/abs/2508.01943",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-03",
+      "title": "Learning to Perform Low-Contact Autonomous Nasotracheal Intubation by Recurrent Action-Confidence Chunking with Transformer",
+      "authors": "Hongliang Ren Team",
+      "pdf": "2508.01808",
+      "pdfLink": "http://arxiv.org/abs/2508.01808",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-03",
+      "title": "DAG: Unleash the Potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding",
+      "authors": "Hangxing Zhang Team",
+      "pdf": "2508.01651",
+      "pdfLink": "http://arxiv.org/abs/2508.01651",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-03",
+      "title": "VFP: Variational Flow-Matching Policy for Multi-Modal Robot Manipulation",
+      "authors": "Ce Hao Team",
+      "pdf": "2508.01622",
+      "pdfLink": "http://arxiv.org/abs/2508.01622",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-03",
+      "title": "CLASS: Contrastive Learning via Action Sequence Supervision for Robot Manipulation",
+      "authors": "Yen-Ling Kuo Team",
+      "pdf": "2508.01600",
+      "pdfLink": "http://arxiv.org/abs/2508.01600",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-02",
+      "title": "Physically-based Lighting Augmentation for Robotic Manipulation",
+      "authors": "Florian T. Pokorny Team",
+      "pdf": "2508.01442",
+      "pdfLink": "http://arxiv.org/abs/2508.01442",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-02",
+      "title": "T2S: Tokenized Skill Scaling for Lifelong Imitation Learning",
+      "authors": "Yuan Xie Team",
+      "pdf": "2508.01167",
+      "pdfLink": "http://arxiv.org/abs/2508.01167",
+      "code": "null"
+    },
+    {
+      "date": "2025-08-02",
+      "title": "COLLAGE: Adaptive Fusion-based Retrieval for Augmented Policy Learning",
+      "authors": "Roberto Martín-Martín Team",
+      "pdf": "2508.01131",
+      "pdfLink": "http://arxiv.org/abs/2508.01131",
+      "code": "link"
+    },
+    {
       "date": "2025-08-01",
       "title": "On-Device Diffusion Transformer Policy for Efficient Robot Manipulation",
       "authors": "Dong Xu Team",
@@ -30,7 +190,7 @@
       "authors": "Jianbing Shen Team",
       "pdf": "2507.23734",
       "pdfLink": "http://arxiv.org/abs/2507.23734",
-      "code": "null"
+      "code": "link"
     },
     {
       "date": "2025-07-31",
@@ -38,7 +198,7 @@
       "authors": "Jiang Bian Team",
       "pdf": "2507.23682",
       "pdfLink": "http://arxiv.org/abs/2507.23682",
-      "code": "null"
+      "code": "link"
     },
     {
       "date": "2025-08-01",
@@ -153,7 +313,7 @@
       "code": "null"
     },
     {
-      "date": "2025-07-28",
+      "date": "2025-08-03",
       "title": "Learning Physical Interaction Skills from Human Demonstrations",
       "authors": "Kwonjoon Lee Team",
       "pdf": "2507.20445",
